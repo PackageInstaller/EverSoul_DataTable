@@ -9506,10 +9506,10 @@
     },
     {
       "no": 10410,
-      "kr": "처치한 마물의 수: {0}",
-      "en": "Monster Kills: {0}",
-      "ja": "退治した魔物の数：{0}",
-      "zh_tw": "已擊殺魔物數量：{0}",
+      "kr": "파괴한 수: {0}",
+      "en": "Objects Destroyed: {0}",
+      "ja": "破壊した数: {0}",
+      "zh_tw": "已破壞數量：{0}",
       "zh_cn": ""
     },
     {
@@ -13233,6 +13233,86 @@
       "zh_cn": ""
     },
     {
+      "no": 11556,
+      "kr": "[2.5주년 기념]\r\n조각난 차원의 미궁 보상 3배 이벤트",
+      "en": "[2.5-Year Anniversary]\r\nDimensional Labyrinth Triple Reward Event",
+      "ja": "[2.5周年記念]\r\n割れた次元の迷宮報酬3倍イベント",
+      "zh_tw": "［2.5週年紀念］\r\n破碎的次元迷宮3倍獎勵活動",
+      "zh_cn": ""
+    },
+    {
+      "no": 11557,
+      "kr": "[2.5주년 기념]\r\n양동 작전 보상 3배 이벤트",
+      "en": "[2.5-Year Anniversary]\r\nDecoy Operation Triple Reward Event",
+      "ja": "[2.5周年記念]\r\n陽動作戦報酬3倍イベント",
+      "zh_tw": "［2.5週年紀念］\r\n聲東擊西3倍獎勵活動",
+      "zh_cn": ""
+    },
+    {
+      "no": 11558,
+      "kr": "[2.5주년 기념]\r\n아레나 보상 3배 이벤트",
+      "en": "[2.5-Year Anniversary]\r\nArena Triple Reward Event",
+      "ja": "[2.5周年記念]\r\nアリーナ報酬3倍イベント",
+      "zh_tw": "［2.5週年紀念］\r\n競技場三倍獎勵活動",
+      "zh_cn": ""
+    },
+    {
+      "no": 11559,
+      "kr": "[2.5주년 기념]\r\n챔피언스 아레나 보상 3배 이벤트",
+      "en": "[2.5-Year Anniversary]\r\nChamps Arena Triple Reward Event",
+      "ja": "[2.5周年記念]\r\nチャンピオンズアリーナ報酬3倍イベント",
+      "zh_tw": "［2.5週年紀念］\r\n冠軍競技場3倍獎勵活動",
+      "zh_cn": ""
+    },
+    {
+      "no": 11560,
+      "kr": "[2.5주년 기념]\r\n아르바이트 3배 보상 이벤트",
+      "en": "[2.5-Year Anniversary]\r\nPart-Time Job Triple Reward Event",
+      "ja": "[2.5周年記念]\r\nアルバイト3倍報酬イベント",
+      "zh_tw": "［2.5週年紀念］\r\n打工3倍獎勵活動",
+      "zh_cn": ""
+    },
+    {
+      "no": 11561,
+      "kr": "조각난 차원의 미궁 보상 3배 이벤트",
+      "en": "Dimensional Labyrinth Triple Reward Event",
+      "ja": "割れた次元の迷宮報酬3倍イベント",
+      "zh_tw": "破碎的次元迷宮3倍獎勵活動",
+      "zh_cn": ""
+    },
+    {
+      "no": 11562,
+      "kr": "양동 작전 보상 3배 이벤트",
+      "en": "Decoy Operation Triple Reward Event",
+      "ja": "陽動作戦報酬3倍イベント",
+      "zh_tw": "聲東擊西3倍獎勵活動",
+      "zh_cn": ""
+    },
+    {
+      "no": 11563,
+      "kr": "아레나 보상 3배 이벤트",
+      "en": "Arena Triple Reward Event",
+      "ja": "アリーナ報酬3倍イベント",
+      "zh_tw": "競技場三倍獎勵活動",
+      "zh_cn": ""
+    },
+    {
+      "no": 11564,
+      "kr": "챔피언스 아레나 보상 3배 이벤트",
+      "en": "Champs Arena Triple Reward Event",
+      "ja": "チャンピオンズアリーナ報酬3倍イベント",
+      "zh_tw": "冠軍競技場3倍獎勵活動",
+      "zh_cn": ""
+    },
+    {
+      "no": 11565,
+      "kr": "아르바이트 3배 보상 이벤트",
+      "en": "Part-Time Job Triple Reward Event",
+      "ja": "アルバイト3倍報酬イベント",
+      "zh_tw": "打工3倍獎勵活動",
+      "zh_cn": ""
+    },
+    {
       "no": 12000,
       "kr": "도전! \r\n탐관오리 클로이",
       "en": "Corrupt Official Chloe\r\r\nChallenge!",
@@ -13842,10 +13922,10 @@
     },
     {
       "no": 12076,
-      "kr": "파괴한 수: {0}",
-      "en": "Objects Destroyed: {0}",
-      "ja": "破壊した数: {0}",
-      "zh_tw": "已破壞數量：{0}",
+      "kr": "처치한 마물의 수: {0}",
+      "en": "Monster Kills: {0}",
+      "ja": "退治した魔物の数：{0}",
+      "zh_tw": "已擊殺魔物數量：{0}",
       "zh_cn": ""
     },
     {
@@ -14908,7 +14988,7 @@
       "no": 12209,
       "kr": "히비스커스 꽃 상점",
       "en": "Hibiscus Blossoms Shop",
-      "ja": "ハイビスカスショップ",
+      "ja": "ハイビスカス\r\nショップ",
       "zh_tw": "朱槿花商店",
       "zh_cn": ""
     },
@@ -14916,7 +14996,7 @@
       "no": 12210,
       "kr": "시글래스 조각 상점",
       "en": "Sea Glass Piece Shop",
-      "ja": "シーグラスピースショップ",
+      "ja": "シーグラスピース\r\nショップ",
       "zh_tw": "海玻璃碎片商店",
       "zh_cn": ""
     },
@@ -15572,7 +15652,7 @@
       "no": 12292,
       "kr": "보름달 교환 상점",
       "en": "Full Moon\r\nExchange Shop",
-      "ja": "満月の交換ショップ",
+      "ja": "満月の\r\n交換ショップ",
       "zh_tw": "滿月兌換商店",
       "zh_cn": ""
     },
@@ -15580,7 +15660,7 @@
       "no": 12293,
       "kr": "보름달 경품 상점",
       "en": "Full Moon\r\nPrize Shop",
-      "ja": "満月の景品ショップ",
+      "ja": "満月の\r\n景品ショップ",
       "zh_tw": "滿月贈品商店",
       "zh_cn": ""
     },
@@ -15956,7 +16036,7 @@
       "no": 12340,
       "kr": "금빛 챔피언 휘장 상점",
       "en": "Golden Champion\r\nInsignia Shop",
-      "ja": "金のチャンピオンバッジ\r\nショップ",
+      "ja": "金の\r\nチャンピオンバッジ\r\nショップ",
       "zh_tw": "金色冠軍徽章商店",
       "zh_cn": ""
     },
@@ -17910,6 +17990,22 @@
       "en": "Support from Chalar decreases all allies' total damage received by 10%.",
       "ja": "カラールのサポートの影響で味方全員の受けるダメージ量が10%減少する。",
       "zh_tw": "受到卡拉爾的支援，所有友軍所受傷害量減少10%",
+      "zh_cn": ""
+    },
+    {
+      "no": 12591,
+      "kr": "광역 역할 정령의 가하는 피해가 20% 증가한다.",
+      "en": "AoE Soul's Damage Dealt increases by 20%.",
+      "ja": "広域役割の精霊の与えるダメージが20%増加する。",
+      "zh_tw": "廣域定位精靈的造成傷害增加20%",
+      "zh_cn": ""
+    },
+    {
+      "no": 12592,
+      "kr": "모든 아군의 가속이 10% 증가한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -22857,6 +22953,222 @@
       "zh_cn": ""
     },
     {
+      "no": 21151,
+      "kr": "1주년 특별 선물",
+      "en": "1st Anniversary Special Gift",
+      "ja": "1周年記念\r\nプレゼント",
+      "zh_tw": "1週年紀念\r\n特別獎勵",
+      "zh_cn": ""
+    },
+    {
+      "no": 21152,
+      "kr": "개판 5분 전",
+      "en": "5 Minutes to Fur-mageddon",
+      "ja": "",
+      "zh_tw": "狗亂前五分鐘",
+      "zh_cn": ""
+    },
+    {
+      "no": 21153,
+      "kr": "메이드의 일과",
+      "en": "The Maid's Daily Tasks",
+      "ja": "",
+      "zh_tw": "女僕的例行公事",
+      "zh_cn": ""
+    },
+    {
+      "no": 21154,
+      "kr": "정리정돈의 시간",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 21155,
+      "kr": "식사 준비하기",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 21156,
+      "kr": "개이득 경품 상점",
+      "en": "Paw-some Prize Shop",
+      "ja": "",
+      "zh_tw": "狗賺好禮商店",
+      "zh_cn": ""
+    },
+    {
+      "no": 21157,
+      "kr": "메이드의\r\n물물교환 상점",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 21158,
+      "kr": "메이드 인 마이 홈 패스",
+      "en": "Homemade by Me Pass",
+      "ja": "",
+      "zh_tw": "女僕在我家通行證",
+      "zh_cn": ""
+    },
+    {
+      "no": 21159,
+      "kr": "메이드의 선물 상자",
+      "en": "The Maid's Gift Box",
+      "ja": "",
+      "zh_tw": "女僕的禮物箱",
+      "zh_cn": ""
+    },
+    {
+      "no": 21160,
+      "kr": "구원자님을 위해 메이드들이 정성껏 골라둔 선물입니다!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 21161,
+      "kr": "개이득 경품 상점에서 흩어진 서류 뭉치를 사용할 때마다\r\n시즌 패스 포인트를 획득합니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 21162,
+      "kr": "왕궁 먼지떨이 상점",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 21163,
+      "kr": "최고급 식자재 상점",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 21164,
+      "kr": "2.5주년 기념 보너스 BINGO!",
+      "en": "2.5-Year Anniversary Bonus BINGO!",
+      "ja": "2.5周年記念ボーナスBINGO！",
+      "zh_tw": "2.5週年紀念額外獎勵BINGO！",
+      "zh_cn": ""
+    },
+    {
+      "no": 21165,
+      "kr": "2.5주년 기념 특별 선물",
+      "en": "2.5-Year Anniversary Celebration Special Gift",
+      "ja": "2.5周年記念特別報酬",
+      "zh_tw": "2.5週年紀念特別禮物",
+      "zh_cn": ""
+    },
+    {
+      "no": 21166,
+      "kr": "2.5주년 기념 예장 세트",
+      "en": "2.5-Year Anniversary Keepsake Set",
+      "ja": "2.5周年記念礼装セット",
+      "zh_tw": "2.5週年紀念組合禮品",
+      "zh_cn": ""
+    },
+    {
+      "no": 21167,
+      "kr": "2.5주년 기념 선물 세트",
+      "en": "2.5-Year Anniversary Gift Set",
+      "ja": "2.5周年記念プレゼントセット",
+      "zh_tw": "2.5週年紀念禮盒",
+      "zh_cn": ""
+    },
+    {
+      "no": 21168,
+      "kr": "2.5주년 기념 특별 에버스톤 상점",
+      "en": "2.5-Year Anniversary Special Everstone Shop",
+      "ja": "2.5周年記念特別エバーストーンショップ",
+      "zh_tw": "2.5週年紀念特別永恆石商店",
+      "zh_cn": ""
+    },
+    {
+      "no": 21169,
+      "kr": "2.5주년 기념 200회 무료 소환",
+      "en": "2.5-Year Anniversary 200 Free Summons",
+      "ja": "2.5周年記念150連無料召喚",
+      "zh_tw": "2.5週年紀念200抽免費召喚",
+      "zh_cn": ""
+    },
+    {
+      "no": 21170,
+      "kr": "2.5주년을 기념하여 특별한 선물을 준비했어요.\r\n이벤트 기간동안 최대 200회 무료 소환을 진행할 수 있습니다.",
+      "en": "A special gift to celebrate our 2.5-Year Anniversary.\r\nYou can get up to 200 free summons during the event period.",
+      "ja": "2.5周年を記念して特別なプレゼントを用意しました。\r\nイベント期間中に最大200連無料召喚が利用できます。",
+      "zh_tw": "為慶祝2.5週年，我們準備了特別禮物。\r\n活動期間最多可進行200次免費召喚。",
+      "zh_cn": ""
+    },
+    {
+      "no": 21171,
+      "kr": "2.5주년 특별 선물",
+      "en": "2.5-Year Anniversary Special Gift",
+      "ja": "2.5周年\r\nスペシャルプレゼント",
+      "zh_tw": "2.5週年特別禮物",
+      "zh_cn": ""
+    },
+    {
+      "no": 21172,
+      "kr": "2.5주년 특별 출석",
+      "en": "2.5-Year Anniversary Special Attendance",
+      "ja": "2.5周年スペシャルログインボーナス",
+      "zh_tw": "2.5週年特別簽到",
+      "zh_cn": ""
+    },
+    {
+      "no": 21173,
+      "kr": "에버소울 2.5주년을 맞아 특별한 선물을 준비했어요!\r\n이벤트 기간 동안 접속한 구원자님들께 다양한 선물을 드려요!",
+      "en": "In honor of Eversoul's 2.5-Year Anniversary, we've arranged some special gifts!\r\nBountiful rewards await every Savior who logs in during this event period!",
+      "ja": "エバーソウルの2.5周年を記念し、特別なプレゼントを用意しました！\r\nイベント期間中にログインした救世主の皆様に様々なプレゼントをさしあげます！",
+      "zh_tw": "我們準備了特別的禮物迎接永恆靈魂2.5週年！\r\n活動期間登入的救援者可享有各種好禮大放送！",
+      "zh_cn": ""
+    },
+    {
+      "no": 21174,
+      "kr": "2.5주년 기념",
+      "en": "2.5-Year Anniversary",
+      "ja": "2.5周年記念",
+      "zh_tw": "2.5週年紀念",
+      "zh_cn": ""
+    },
+    {
+      "no": 21175,
+      "kr": "2.5주년 전야제 특별상점",
+      "en": "2.5-Year Anni. Eve Shop",
+      "ja": "2.5周年前夜祭ショップ",
+      "zh_tw": "2.5週年前夕特別商店",
+      "zh_cn": ""
+    },
+    {
+      "no": 21176,
+      "kr": "2.5주년 전야제 특별출석",
+      "en": "2.5-Year Anni. Eve Special Attendance",
+      "ja": "2.5周年前夜祭\r\nスペシャルログインボーナス",
+      "zh_tw": "2.5週年前夕特別簽到",
+      "zh_cn": ""
+    },
+    {
+      "no": 21177,
+      "kr": "다가올 에버소울 2.5주년을 함께 기다리며 매일매일 선물을 드려요!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
       "no": 30001,
       "kr": "The Daybreak",
       "en": "The Daybreak",
@@ -24393,6 +24705,30 @@
       "zh_cn": ""
     },
     {
+      "no": 30193,
+      "kr": "Maid in Trouble",
+      "en": "Maid in Trouble",
+      "ja": "Maid in Trouble",
+      "zh_tw": "Maid in Trouble",
+      "zh_cn": ""
+    },
+    {
+      "no": 30194,
+      "kr": "Blooming in Shade",
+      "en": "Blooming in Shade",
+      "ja": "Blooming in Shade",
+      "zh_tw": "Blooming in Shade",
+      "zh_cn": ""
+    },
+    {
+      "no": 30195,
+      "kr": "Shadow Leap",
+      "en": "Shadow Leap",
+      "ja": "Shadow Leap",
+      "zh_tw": "Shadow Leap",
+      "zh_cn": ""
+    },
+    {
       "no": 40000,
       "kr": "무한작전",
       "en": "Infinite Operation",
@@ -25275,17 +25611,17 @@
     {
       "no": 51025,
       "kr": "적 정보",
-      "en": "",
+      "en": "Enemy Info",
       "ja": "",
-      "zh_tw": "",
+      "zh_tw": "敵人資訊",
       "zh_cn": ""
     },
     {
       "no": 51026,
       "kr": "기원 효과",
-      "en": "",
+      "en": "Origin Effect",
       "ja": "",
-      "zh_tw": "",
+      "zh_tw": "起源效果",
       "zh_cn": ""
     },
     {
@@ -26942,6 +27278,14 @@
       "en": "With Weiss's tank support, you can defeat even more monsters at once!\r\nSmart positioning with Weiss's tank support is key to victory!\r\nDefeating multiple enemies with a single tank bombardment reduces the tank's reload time!\r\n\r\nTank #1 Bombardment (Upper): Fires a shell in a straight line that annihilates all enemies in its path (Cooldown: 15 sec).\r\n\r\nTank #2 Bombardment (Middle): Fires a shell in a straight line that annihilates all enemies in its path (Cooldown: 15 sec).\r\n\r\nTank #3 Bombardment (Lower): Fires a shell in a straight line that annihilates all enemies in its path (Cooldown: 15 sec).\r\n\r\nEmergency Reload: Instantly readies all tank bombardments for use (can be used once per battle, 20 seconds after the battle begins)\r\n\r\nDefeating the enemy awards 25,000 points.",
       "ja": "",
       "zh_tw": "有了拜斯的幫助，就能一口氣殲滅更多魔物！\r\n配合各個位置使用拜斯的坦克支援是獲勝關鍵！\r\n如果一次砲擊擊中眾多敵人，坦克的裝填速度會變更快！\r\n\r\n1號坦克射擊（上）：直線發射出殲滅所有敵人的砲彈。（冷卻時間：15秒）\r\n\r\n2號坦克射擊（中）：直線發射出殲滅所有敵人的砲彈。（冷卻時間：15秒）\r\n\r\n3號坦克射擊（下）：直線發射出殲滅所有敵人的砲彈。（冷卻時間：15秒）\r\n\r\n緊急裝填：所有坦克轉為可立即使用砲擊的狀態。（僅限發動1次，可在戰鬥開始20秒後使用）\r\n\r\n擊殺敵人時可獲得25,000分",
+      "zh_cn": ""
+    },
+    {
+      "no": 110674,
+      "kr": "실베스터 조이 3세의 몸에 궁기가 빙의해 폭주했다!\r\n빙의된 궁기의 혼을 퇴치하고 실베스터의 폭주를 저지해야 한다.\r\n\r\n전투를 진행하며 쌓이는 <COLOR=#FFFFFF><피로></COLOR>를 적절하게 풀어주는 것이 공략의 포인트!\r\n\r\n실베스터가 빙글빙글 돌 때 버프를 해제하면 더 쉽게 공략이 가능할수도..?",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -38282,7 +38626,7 @@
     },
     {
       "no": 532359,
-      "kr": "제 아무리 동맹 관계라고 해도\r\n뭐든지 공짜로 줄 수는 없지.\r\n더 필요한 게 있다면 따로 상담도 받아 주겠다.",
+      "kr": "제아무리 동맹 관계라고 해도\r\n뭐든지 공짜로 줄 수는 없지.\r\n더 필요한 게 있다면 따로 상담도 받아 주겠다.",
       "en": "We may be allies, but I can't\r\nhand things out for free.\r\nBut if you need more, I'm open to negotiation.",
       "ja": "",
       "zh_tw": "就算我們是結盟關係，\r\n也不能什麼都白白送你。\r\n如果還有需要的，我可以另外跟你商量。",
@@ -38310,6 +38654,150 @@
       "en": "I appreciate the quick purchase.\r\nNeed anything else?",
       "ja": "",
       "zh_tw": "謝謝你大手筆的消費。\r\n還有沒有需要的？",
+      "zh_cn": ""
+    },
+    {
+      "no": 532363,
+      "kr": "어서오세요, 구원자님.\r\n찾으시는 물건이 있나요?",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532364,
+      "kr": "오셨군요.\r\n성 안은 완벽하게 정리해 두었어요.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532365,
+      "kr": "이런 시답잖은 하루는 오랜만이네요.\r\n솔직히, 조금은 즐거웠습니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532366,
+      "kr": "정신 없는 하루였지만,\r\n덕분에 마음의 여유는 조금 되찾을 수 있었어요.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532367,
+      "kr": "원하시는 것을 얻으셨나요?\r\n저도 계속 찾아보고 있겠습니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532368,
+      "kr": "마음에 드시나요?\r\n좋은 물건을 계속 구비해 두겠습니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532369,
+      "kr": "구원자! 왔어?\r\n청소 상태는 마음에 들어?",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532370,
+      "kr": "천천히 둘러봐!\r\n허접 구원자 군에게 필요한 건 \r\n다 준비해 놨으니까!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532371,
+      "kr": "위대하신 멜피스 님에게\r\n메이드 일 정도는 식은 죽 먹기지!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532372,
+      "kr": "브라이스가 정말 즐거워 보였어!\r\n뭐… 특별히 고맙다고 해줄게!\t",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532373,
+      "kr": "보는 눈이 있는 걸!\r\n내가 특별히 준비한 거라구!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532374,
+      "kr": "어때! 맘에 들지?\r\n필요한 게 있다면 언제든 말해!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532375,
+      "kr": "부탁 받은 일은 다 했어.\r\n어때? 이 정도면 충분해?",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532376,
+      "kr": "왔구나.\r\n방은 깔끔하게 정리해 뒀어.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532377,
+      "kr": "성의 옥상에서 본 햇살…\r\n반짝반짝, 예쁘더라.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532378,
+      "kr": "메이드 일도 꽤 마음에 들어.\r\n덕분에 멜피스의 해맑은 모습을 잔뜩 봤거든.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532379,
+      "kr": "마음에 드나 보네.\r\n다행이야.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 532380,
+      "kr": "좋은 선택이네.\r\n조금 더 둘러봐도 돼.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -41894,6 +42382,14 @@
       "en": "<color=\"#2d9b00\">Renee (Argent)'s ATK +{0}%</color> when Renee (Argent) is placed",
       "ja": "",
       "zh_tw": "配置勒內（白銀）時，<color=\"#2d9b00\">勒內（白銀）的攻擊力增加{0}%</color>",
+      "zh_cn": ""
+    },
+    {
+      "no": 552515,
+      "kr": "린지(타나토스) 배치 시 <color=\"#2d9b00\">린지(타나토스)의 공격력 {0}%</color> 증가",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -47609,6 +48105,14 @@
       "zh_cn": ""
     },
     {
+      "no": 581121,
+      "kr": "라우라",
+      "en": "Laura",
+      "ja": "ラウラ",
+      "zh_tw": "蘿拉\t萝拉",
+      "zh_cn": ""
+    },
+    {
       "no": 600112,
       "kr": "빠른 사냥",
       "en": "Quick Hunt",
@@ -53073,6 +53577,198 @@
       "zh_cn": ""
     },
     {
+      "no": 615711,
+      "kr": "직장",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615712,
+      "kr": "과거",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615713,
+      "kr": "버릇",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615714,
+      "kr": "기계",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615715,
+      "kr": "말투",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615716,
+      "kr": "마스크",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615717,
+      "kr": "헤어스타일",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615718,
+      "kr": "음악",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615719,
+      "kr": "전투복",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615720,
+      "kr": "숲지기",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615721,
+      "kr": "제철 과일",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615722,
+      "kr": "땡땡이",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615723,
+      "kr": "여행",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615724,
+      "kr": "보좌관",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615725,
+      "kr": "이불",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615726,
+      "kr": "화재",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615727,
+      "kr": "밤의 일족",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615728,
+      "kr": "바니 복장",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615729,
+      "kr": "오토하",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615730,
+      "kr": "토끼",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615731,
+      "kr": "칵테일",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615732,
+      "kr": "속임수",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615733,
+      "kr": "행운",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 615734,
+      "kr": "능력",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
       "no": 619003,
       "kr": "메인 스토리 {0} {1}화 완료 시 얻을 수 있습니다.",
       "en": "Obtained when you complete Main Story {0}, Episode {1}.",
@@ -53862,6 +54558,14 @@
       "en": "Spin-off stories will be coming soon.",
       "ja": "外伝ストーリーは後日アップデートされます。",
       "zh_tw": "外傳故事預計後續更新。",
+      "zh_cn": ""
+    },
+    {
+      "no": 650046,
+      "kr": "영지 이동",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -54766,6 +55470,14 @@
       "en": "Special Expansion of Tower of Origin Underway\r\n{0}",
       "ja": "起源の塔特別増設中\r\n{0}",
       "zh_tw": "起源之塔特別增設中\r\n{0}",
+      "zh_cn": ""
+    },
+    {
+      "no": 660148,
+      "kr": "기원의 좌",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -59038,6 +59750,22 @@
       "en": "That concludes my introduction to your town.\r\nI wish you luck, Savior.",
       "ja": "領地の説明はここまでにします。\r\nよろしくお願いします、救世主さま。",
       "zh_tw": "有關領地的說明就到此結束。\r\n請多多指教，救援者。",
+      "zh_cn": ""
+    },
+    {
+      "no": 980181,
+      "kr": "구원자님, 1호 방주가 파괴되어 기존 기원의 탑에 더 이상 액세스하기 어려워졌습니다.\r\n그래서 가능한 기존 탑의 기능을 제 메타트론 시스템을 사용해 복구했습니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 980182,
+      "kr": "다만 복구를 하긴 했으나 이전과 완전히 같은 스펙은 아니므로 모쪼록 주의 부탁드립니다.\r\n기존 기원의 탑의 데이터는 백업해두었으므로 여전히 액세스 가능하니 참고 부탁드릴게요.\r\n그럼, 행운을 빕니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -65609,6 +66337,70 @@
       "zh_cn": ""
     },
     {
+      "no": 996520,
+      "kr": "이벤트 기간 동안 특별 스테이지 「개판 5분 전」이 오픈됩니다.\r\n폭주한 실베스터 조이 3세로부터 흩어진 서류 뭉치를 되찾아 다양한 보상을 획득하세요.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 996521,
+      "kr": "이벤트 레이드 「개판 5분 전」에 입장하기 위해서는\r\n이벤트 스토리 「메이드 인 마이 홈」 8화를 확인해야 합니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 996522,
+      "kr": "「흩어진 서류 뭉치」는 「개판 5분 전」에서 획득할 수 있으며,\r\n「개이득 경품 상점」에서 다양한 아이템으로 교환할 수 있습니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 996523,
+      "kr": "교환 기간이 종료되면 「흩어진 서류 뭉치」는 개당 3000골드로 환산됩니다.\r\n환산된 아이템은 우편함으로 지급됩니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 996524,
+      "kr": "폭주한 실베스터 조이 3세를 물리치고 「흩어진 서류 뭉치」를 획득하세요.\r\n클리어한 레벨이 높을수록 더 풍성한 보상을 획득할 수 있습니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 996525,
+      "kr": "이벤트 스테이지 「메이드의 일과」는\r\n「정리정돈의 시간」, 혹은 「식사 준비하기」 중 하나를 선택하여 도전할 수 있습니다.\r\n멜피스 혹은 브라이스와 함께 작전을 수행해 보세요!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 996526,
+      "kr": "「메이드의 일과」에서 「왕궁 먼지떨이」와 「최고급 식자재」를 획득할 수 있으며,\r\n「메이드의 물물교환 상점」에서 다양한 아이템으로 교환할 수 있습니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 996527,
+      "kr": "「왕궁 먼지떨이」와 「최고급 식자재」는 교환 기간이 종료되면 개당 3000골드로 환산됩니다.\r\n환산된 아이템은 우편함으로 지급됩니다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
       "no": 996600,
       "kr": "스트라이브 시스템",
       "en": "Strive System",
@@ -65667,9 +66459,9 @@
     {
       "no": 996610,
       "kr": "스트라이브 시스템은 각 단계별로 설정된 적과 시뮬레이션에 대응하며 높은 단계를 향해 가는 컨텐츠입니다.\r\n일정 기간 동안 해당 테마의 정령에게는 기원 효과가 적용됩니다.\r\n기원 효과는 대상 정령에게만 적용되는 강력한 버프입니다.",
-      "en": "With the Strive System, you'll deploy theme-based Souls\r\nto take on stage-specific enemies and simulations, climbing toward higher levels of difficulty over a limited time.",
+      "en": "With the Strive System, you'll take on stage-specific enemies and simulations, climbing toward higher levels of difficulty.\r\nOrigin Effects are applied to theme-based Souls for a limited time.\r\nOrigin Effects are powerful buffs that apply only to the target Soul.",
       "ja": "",
-      "zh_tw": "奮戰系統是在一定期間內編制該主題的精靈，\r\n對付各階段設置的敵人和模擬裝置，逐漸邁向高階段的遊戲內容。",
+      "zh_tw": "奮戰系統是對付各階段設置的敵人和模擬裝置，逐漸邁向高階段的遊戲內容。\r\n在一定期間內，將對相應主題的精靈套用起源效果。\r\n起源效果是只會套用於相應精靈的強大增益效果。",
       "zh_cn": ""
     },
     {
@@ -66086,6 +66878,22 @@
       "en": "Climb the Tower of Origin to collect rewards and unlock stories associated with each Soul's artifacts.\r\r\nDelve deeper into the lore of the Souls' origins.",
       "ja": "起源の塔では塔を上りながら報酬を獲得し、各精霊の遺物に関するストーリーを開放できます。\r\n精霊たちの起源についてもっと詳しく確認しましょう。",
       "zh_tw": "攀上起源之塔獲得獎勵，可解鎖和精靈遺物有關的故事。\r\r\n前往進一步了解精靈的起源吧。",
+      "zh_cn": ""
+    },
+    {
+      "no": 997222,
+      "kr": "기원의 좌",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 997223,
+      "kr": "기원의 좌에서는 각 정령들의 유물과 관련된 스토리를 해금할 수 있습니다.\r\n정령들의 기원에 대해 더욱 자세히 알아보세요.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -67318,6 +68126,14 @@
       "en": "Corrupt Official Chloe is back again!\r\n\r\nBut this time, she's returned armed with overwhelming greed and desire, making her a far cry from the official we used to know!\r\n\r\nToss the periodically gained <COLOR=#FFFFFF>\"Brass Coins\"</COLOR> at her oversized head to teach her a bitter lesson in greed!\r\n\r\n<COLOR=#FFFFFF>Having grown soft from living in luxury with warm floors and fine dining, she's extremely susceptible to Freeze and Poison. Deploy Souls who can exploit these weaknesses!</COLOR>",
       "ja": "忌々しい悪代官クロエがまた現れた！\r\n\r\n欲望と貪欲で武装して再登場したこいつは、今までの悪代官クロエとは違う！\r\n\r\n周期的に補給される<COLOR=#FFFFFF><葉錢></COLOR>を大きな頭に投げて、貪欲の代償を払わせよう！\r\n\r\n<COLOR=#FFFFFF>温かな家と良質な食べ物で豊かな生活をしてきたためか、寒さと中毒に非常に弱いようなので、冷気と中毒を利用できる精霊を編成してみよう！</COLOR>",
       "zh_tw": "貪官汙吏克羅伊又出現了！\r\n\r\n但這個武裝著欲望和貪婪再次登場的傢伙，不是我們所認識的那個貪官汙吏克羅伊！\r\n\r\n把定期供給的<COLOR=#FFFFFF>＜銅錢＞</COLOR>丟到她巨大的頭上，讓她嚐嚐貪婪的痛苦！\r\n\r\n<COLOR=#FFFFFF>可能是因為享受著豐衣足食的生活，讓她展現出難以招架寒冷和中毒的模樣，所以配置能靈活運用寒氣和中毒的精靈吧！</COLOR>",
+      "zh_cn": ""
+    },
+    {
+      "no": 1106183,
+      "kr": "낙원의 마녀는 아군의 마나를 계속 흡수하여 자신의 공격을 강화한다!\r\n빠르게 보스를 공격하여 <COLOR=#FFFFFF><흔들리는 마나></COLOR> 효과를 부여하면 마녀가 쌓아둔 마나를 감소시키고 약화시킬 수 있다! 적극적으로 공격하여 낙원의 마녀를 무력화 시키자!\r\n\r\n낙원의 마녀는 특히 냉기와 중독 지속 피해에 취약한 것 같기도..?",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {

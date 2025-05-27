@@ -9212,7 +9212,7 @@
       "no": 24021,
       "kr": "제어 불가",
       "en": "Beyond Control",
-      "ja": "",
+      "ja": "コントロール不可",
       "zh_tw": "失控",
       "zh_cn": ""
     },
@@ -9220,7 +9220,7 @@
       "no": 24022,
       "kr": "제어가 불가능한 상태 디펜더를 우선적으로 공격하지 않는다.",
       "en": "In a state beyond control, she no longer prioritizes attacking Defenders.",
-      "ja": "",
+      "ja": "コントロールできない状態のディフェンダーを優先的に攻撃しない。",
       "zh_tw": "處於失控狀態，不會優先攻擊捍衛者",
       "zh_cn": ""
     },
@@ -10609,6 +10609,22 @@
       "zh_cn": ""
     },
     {
+      "no": 26091,
+      "kr": "선물이 두배~!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 26092,
+      "kr": "신속한 준비",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
       "no": 27023,
       "kr": "고주파",
       "en": "High Frequency",
@@ -11482,10 +11498,10 @@
     },
     {
       "no": 27132,
-      "kr": "지속 시간이 종료되면 모든 것을 멸한다. 단 기절에 취약하다.",
-      "en": "Obliterates everything upon expiration. Vulnerable to Stun.",
+      "kr": "지속 시간이 종료되면 아군 전체의 영구적으로 가하는 피해가 감소한다.",
+      "en": "",
       "ja": "",
-      "zh_tw": "持續時間結束後消滅一切，但容易陷入暈眩",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -13723,7 +13739,7 @@
     {
       "no": 27412,
       "kr": "명중 <value>, 지속적으로 냉기 피해를 입으며 피격 시 마나가 회복되지 않는다.",
-      "en": "Accuracy <value>%. Deals Freeze DoT and disables Mana Recovery upon being hit.",
+      "en": "Accuracy <value>. Deals Freeze DoT and disables Mana Recovery upon being hit.",
       "ja": "",
       "zh_tw": "命中<value>，持續受到寒氣傷害，被擊中時不會恢復魔力",
       "zh_cn": ""
@@ -15011,9 +15027,9 @@
     {
       "no": 27573,
       "kr": "기원의 힘으로 능력치가 대폭 증가하고 마나를 2500 만큼 보유한 상태로 전투를 시작한다.",
-      "en": "Work in Progress",
+      "en": "Greatly increases stats with the power of origin and starts battle with 2,500 Mana.",
       "ja": "",
-      "zh_tw": "Work in Progress",
+      "zh_tw": "起源的力量使能力值大幅增加，將以持有2500魔力的狀態開始戰鬥。",
       "zh_cn": ""
     },
     {
@@ -15066,7 +15082,7 @@
     },
     {
       "no": 27580,
-      "kr": "",
+      "kr": "유물 효과로 인해 치명타 확률이 10%, 가속이 5 증가한다.",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15074,7 +15090,7 @@
     },
     {
       "no": 27581,
-      "kr": "",
+      "kr": "유물 효과로 인해 치명타 확률이 15%, 가속이 7.5 증가한다.",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15082,7 +15098,7 @@
     },
     {
       "no": 27582,
-      "kr": "",
+      "kr": "유물 효과로 인해 치명타 확률이 20%, 가속이 10 증가한다.",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15090,7 +15106,7 @@
     },
     {
       "no": 27583,
-      "kr": "",
+      "kr": "유물 효과로 인해 치명타 확률이 25%, 가속이 12.5 증가한다.",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15098,7 +15114,7 @@
     },
     {
       "no": 27584,
-      "kr": "",
+      "kr": "유물 효과로 인해 치명타 확률이 30%, 가속이 15 증가한다.",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15106,7 +15122,7 @@
     },
     {
       "no": 27585,
-      "kr": "",
+      "kr": "유물 효과로 인해 치명타 확률이 35%, 가속이 17.5 증가한다.",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15114,7 +15130,7 @@
     },
     {
       "no": 27586,
-      "kr": "",
+      "kr": "유물 효과로 인해 치명타 확률이 40%, 가속이 20 증가한다.",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15122,7 +15138,7 @@
     },
     {
       "no": 27587,
-      "kr": "",
+      "kr": "피니셔",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15130,7 +15146,7 @@
     },
     {
       "no": 27588,
-      "kr": "",
+      "kr": "중첩 당 치명타 위력, 가하는 피해 6% 증가",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15138,7 +15154,7 @@
     },
     {
       "no": 27589,
-      "kr": "",
+      "kr": "마킹",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15146,7 +15162,7 @@
     },
     {
       "no": 27590,
-      "kr": "",
+      "kr": "중첩 당 치명타 피격률 +2%, 방어력 2% 감소",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15154,7 +15170,7 @@
     },
     {
       "no": 27591,
-      "kr": "",
+      "kr": "중첩 당 치명타 피격률 +1%",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15162,7 +15178,7 @@
     },
     {
       "no": 27592,
-      "kr": "",
+      "kr": "스파이럴 킥 - 마킹",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15170,7 +15186,7 @@
     },
     {
       "no": 27593,
-      "kr": "",
+      "kr": "펜타 스트라이크 - 마킹",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15178,7 +15194,7 @@
     },
     {
       "no": 27594,
-      "kr": "",
+      "kr": "중첩 당 치명타 피격률 +1.5%",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15186,7 +15202,7 @@
     },
     {
       "no": 27595,
-      "kr": "",
+      "kr": "중첩 당 가하는 피해 20% 감소",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15194,7 +15210,7 @@
     },
     {
       "no": 27596,
-      "kr": "",
+      "kr": "멸살 저지에 성공하여 기절한 시간 동안 받는 최종 피해량 <value>%",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15202,7 +15218,7 @@
     },
     {
       "no": 27597,
-      "kr": "",
+      "kr": "라우라 메인 2레벨 효과",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15210,7 +15226,7 @@
     },
     {
       "no": 27598,
-      "kr": "",
+      "kr": "라우라 메인 3레벨 효과",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15218,7 +15234,7 @@
     },
     {
       "no": 27599,
-      "kr": "",
+      "kr": "라우라 유물 4레벨  - 조건 없이 삼격 효과",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15226,7 +15242,7 @@
     },
     {
       "no": 27600,
-      "kr": "",
+      "kr": "라우라 유물 7레벨 - 조건 없이 환영 효과",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
@@ -15234,10 +15250,202 @@
     },
     {
       "no": 27601,
-      "kr": "",
+      "kr": "마력의 인장",
       "en": "Work in Progress",
       "ja": "",
       "zh_tw": "Work in Progress",
+      "zh_cn": ""
+    },
+    {
+      "no": 27602,
+      "kr": "해제하지 못할 경우 모든 마나가 사라지고 적의 마나를 2500 회복시킨다!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27603,
+      "kr": "정화의 바람",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27604,
+      "kr": "해제될 때까지 2초 마다 모든 디버프를 해제하는 상태가 되었다!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27605,
+      "kr": "낙원의 가호",
+      "en": "Protection of the Paradise",
+      "ja": "",
+      "zh_tw": "樂園的庇佑",
+      "zh_cn": ""
+    },
+    {
+      "no": 27606,
+      "kr": "압도적인 마나",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27607,
+      "kr": "마녀가 보유 중인 마나가 100%일 경우 모든 적의 가하는 피해를 50% 감소시킨다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27608,
+      "kr": "흔들리는 마나",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27609,
+      "kr": "공격을 받을 때마다 중첩이 쌓이며, 60중첩일 경우 모든 중첩과 마나를 소모하고 낙원의 마녀가 받는 피해가 100% 증가한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27610,
+      "kr": "오버히트",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27611,
+      "kr": "공격력 100%, 최대체력 100%, 가하는 피해가 50% 증가한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27612,
+      "kr": "얼티밋 스킬 사용 시 추가 피해를 입히는 대신 영구적으로 자신의 가하는 피해가 60% 감소한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27613,
+      "kr": "낙원의 마녀",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27614,
+      "kr": "피해를 입은 만큼 공격력과 방어력 증가, 다른 지속 피해는 잘 견디지만 냉기와 중독에 취약하다!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27615,
+      "kr": "레베카의 메인 스킬로 인해 받는 최종 피해가 60% 증가하고",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27616,
+      "kr": "전성기의 힘",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27617,
+      "kr": "메인 스킬 사용 시 대상에게 일정 시간동안 받는 최종 피해를 증가시키고 영구적인 감전 피해를 입힌다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27618,
+      "kr": "받는 최종 피해 60% 증가",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27619,
+      "kr": "",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27620,
+      "kr": "",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27621,
+      "kr": "",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27622,
+      "kr": "",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27623,
+      "kr": "",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27624,
+      "kr": "",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 27625,
+      "kr": "",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -19660,7 +19868,7 @@
       "no": 232080,
       "kr": "투탕카멘의 가면",
       "en": "Tutankhamun's Mask",
-      "ja": "",
+      "ja": "ツタンカーメンのマスク",
       "zh_tw": "圖坦卡門的面具",
       "zh_cn": ""
     },
@@ -19732,7 +19940,7 @@
       "no": 232089,
       "kr": "죽은 왕을 미라로 보존하여 머리에 씌운 장례용 가면.\r\n떠나간 영혼이 육체로 돌아와 부활한다는 믿음이 깃든 가면이다.\r\n부활 후에도 정체를 알아볼 수 있도록 왕의 생전 모습을 본떠 만들었다고 한다.",
       "en": "A funeral mask placed on the head of a preserved mummy of a deceased king.\r\nIt embodies the ancient belief that the departed soul will return to the body for its rebirth.\r\nIt is said to be crafted in the king's living image, ensuring recognition of him in the afterlife.",
-      "ja": "",
+      "ja": "ミイラとして保存されていた王の頭にかぶせた葬儀用のマスク。\r\n去っていった魂が肉体に戻って復活するという信念が込められている。\r\n復活後も正体がわかるように王の生前の姿を模して作られたという。",
       "zh_tw": "將死去的國王製成木乃伊保存，戴在頭部的葬禮用面具。\r\n該面具承載著離去的靈魂會回到肉體復活的信念。\r\n據傳是為了在復活後也能認出其真實身分，才仿照國王生前的模樣製作。",
       "zh_cn": ""
     },
@@ -21667,6 +21875,86 @@
     {
       "no": 233179,
       "kr": "마탄의 악마 자미엘의 힘이 깃든 탄환. \r\n마지막 일곱 번째 탄환은 목표를 반드시 꿰뚫은 후, \r\n그림자처럼 사라진다고 한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 233180,
+      "kr": "소림사 탑림",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 233181,
+      "kr": "언리미티드 체이스",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 233182,
+      "kr": "자신의 치명타 확률이 <318610.VALUE>, 가속이 <318611.VALUE> 증가한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 233183,
+      "kr": "자신의 치명타 확률이 <318620.VALUE>, 가속이 <318621.VALUE> 증가한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 233184,
+      "kr": "자신의 치명타 확률이 <318630.VALUE>, 가속이 <318631.VALUE> 증가한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 233185,
+      "kr": "자신의 치명타 확률이 <318640.VALUE>, 가속이 <318641.VALUE> 증가한다.\r\n추가로<COLOR=#FFFFFF><링크 스트라이크></COLOR>의 모든 추가 효과를 <COLOR=#FFFFFF><마킹></COLOR> 중첩과 관계 없이 사용할 수 있게 된다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 233186,
+      "kr": "자신의 치명타 확률이 <318650.VALUE>, 가속이 <318651.VALUE> 증가한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 233187,
+      "kr": "자신의 치명타 확률이 <318660.VALUE>, 가속이 <318661.VALUE> 증가한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 233188,
+      "kr": "자신의 치명타 확률이 <318670.VALUE>, 가속이 <318671.VALUE> 증가한다. <COLOR=#FFFFFF><매그넘 피니셔></COLOR>을 <COLOR=#FFFFFF><마킹></COLOR> 중첩과 관계 없이 사용할 수 있게 되고, 얼티밋 사용 시 <COLOR=#FFFFFF><매그넘 피니셔></COLOR>를 <COLOR=#FFFFFF>2</COLOR>회 사용하는 효과가 추가된다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 233189,
+      "kr": "소림사의 역대 고승들의 묘지.\r\n248개의 탑이 마치 숲처럼 서 있다고 하여 '탑림'이라 불린다.",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -25236,7 +25524,7 @@
       "no": 342081,
       "kr": "함께 춤 춰볼까?",
       "en": "Dance Together?",
-      "ja": "",
+      "ja": "一緒に踊りましょうか？",
       "zh_tw": "要與我共舞嗎？",
       "zh_cn": ""
     },
@@ -25244,7 +25532,7 @@
       "no": 342082,
       "kr": "코브라처럼 우아하게~",
       "en": "Cobra's Grace",
-      "ja": "",
+      "ja": "コブラのように優雅に～",
       "zh_tw": "像眼鏡蛇般優雅～",
       "zh_cn": ""
     },
@@ -25252,7 +25540,7 @@
       "no": 342083,
       "kr": "독수리처럼 날렵하게!",
       "en": "Eagle's Swiftness!",
-      "ja": "",
+      "ja": "ワシのように軽やかに！",
       "zh_tw": "像禿鷹般敏捷！",
       "zh_cn": ""
     },
@@ -25260,7 +25548,7 @@
       "no": 342084,
       "kr": "춤추는 것처럼!",
       "en": "Like Dancing!",
-      "ja": "",
+      "ja": "舞い踊るように！",
       "zh_tw": "像在跳舞一樣！",
       "zh_cn": ""
     },
@@ -25268,7 +25556,7 @@
       "no": 342085,
       "kr": "눈을 떼지 못할걸?",
       "en": "Eyes Glued on Me",
-      "ja": "",
+      "ja": "目が離せないわね？",
       "zh_tw": "應該移不開視線哦？",
       "zh_cn": ""
     },
@@ -25276,7 +25564,7 @@
       "no": 342089,
       "kr": "마음가짐",
       "en": "Heart Condition",
-      "ja": "",
+      "ja": "心得",
       "zh_tw": "決心",
       "zh_cn": ""
     },
@@ -26434,7 +26722,7 @@
     },
     {
       "no": 343181,
-      "kr": "라우라_액티브",
+      "kr": "매그넘 피스트",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -26442,7 +26730,7 @@
     },
     {
       "no": 343182,
-      "kr": "추혼・삼격",
+      "kr": "링크 스트라이크",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -26450,7 +26738,7 @@
     },
     {
       "no": 343183,
-      "kr": "라우라_서브2",
+      "kr": "매그넘 피니셔",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -26458,7 +26746,7 @@
     },
     {
       "no": 343184,
-      "kr": "라우라_패시브",
+      "kr": "라이징 체이스",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -26466,7 +26754,15 @@
     },
     {
       "no": 343185,
-      "kr": "라우라_얼티밋",
+      "kr": "그랜드 피니셔",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 343189,
+      "kr": "체이스 마킹",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -27883,6 +28179,46 @@
     {
       "no": 348015,
       "kr": "못말리는 실베스터",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 348051,
+      "kr": "여름 여신의 한숨",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 348052,
+      "kr": "시원한 회오리",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 348053,
+      "kr": "마력 회수",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 348054,
+      "kr": "칼날 바람",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 348055,
+      "kr": "한여름의 환상",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -30508,7 +30844,7 @@
       "no": 352081,
       "kr": "타샤가 가장 가까운 적에게 순간적으로 가속하여 접근해 눈으로 쫓을 수 없는 속도의 연격을 펼쳐 적이 보유한 버프를 <COLOR=#FFFFFF>2</COLOR>개 제거하고, 공격력 <208111.VALUE>의 피해를 입힌다.",
       "en": "Tasha dashes in a blink to the nearest enemy and delivers a flurry of strikes at blinding speed, removing <COLOR=#FFFFFF>2</COLOR> buff from the target and dealing damage equal to <208111.VALUE> of ATK.",
-      "ja": "",
+      "ja": "ターシャが一番近い敵に瞬間的に加速して接近し、目で追えない速度の連撃で敵の所持したバフを<COLOR=#FFFFFF>2</COLOR>個削除し、攻撃力の<208111.VALUE>のダメージを与える。",
       "zh_tw": "塔莎瞬間加速，靠近最接近的敵人，以迅雷不及掩耳的速度展開連擊，解除敵人持有的<COLOR=#FFFFFF>2</COLOR>個增益效果，造成攻擊力<208111.VALUE>的傷害",
       "zh_cn": ""
     },
@@ -30516,7 +30852,7 @@
       "no": 352082,
       "kr": "타샤가 공중으로 떠올라 가장 가까운 적에게 챠크람을 던져서 공격력의 <208211.VALUE>의 피해를 입히고, <208216.DURATION>초 동안 치명타 피격률을 <208216.VALUE> 증가시킨다. 만약 <COLOR=#FFFFFF><춤추는 것처럼!></COLOR> 효과로 3명 이상 일 경우의 피해를 입혔다면 치명타 피격률이 <208217.VALUE>로 변경된다.",
       "en": "Tasha takes to the air and flings a chakram at the nearest enemy, dealing damage equal to <208211.VALUE> of ATK and increasing their Incoming Crit Rate by <208216.VALUE> for <208216.DURATION> seconds. If 3 or more affected thanks to the <COLOR=#FFFFFF>\"Like Dancing!\"</COLOR> effect, the Incoming Crit Rate increase changes to <208217.VALUE>.",
-      "ja": "",
+      "ja": "ターシャが空中に浮かび上がり、一番近い敵にチャクラムを投げて攻撃力の<208211.VALUE>のダメージを与え、<208216.DURATION>秒間、被クリティカル率を<208216.VALUE>増加させる。もし<COLOR=#FFFFFF><舞い踊るように！></COLOR>の効果で3体以上の敵にダメージを与えた場合、被クリティカル率が<208217.VALUE>に変更される。",
       "zh_tw": "塔莎飛到空中，對最接近的敵人丟出環刃，造成攻擊力<208211.VALUE>的傷害，在<208216.DURATION>秒內使被暴擊擊中率增加<208216.VALUE>。若效果<COLOR=#FFFFFF>＜像在跳舞一樣！＞</COLOR>使3人以上受擊，則被暴擊擊中率變更為<208217.VALUE>",
       "zh_cn": ""
     },
@@ -30524,7 +30860,7 @@
       "no": 352083,
       "kr": "타샤가 가장 가까운 적에게 순간적으로 가속하여 적을 베어낸 뒤 제자리로 돌아온다. 가속하는 동안 자신에게 일시적인 무적 상태를 부여하고, 공격력 <208311.VALUE>의 피해를 입히며 <208316.DURATION>초 동안 기절 상태로 만든다. ",
       "en": "Tasha dashes in a blink to the nearest enemy, delivering a swift strike before returning to her spot. She becomes temporarily Invulnerable during the dash, dealing damage equal to <208311.VALUE> of ATK and stunning the target for <208316.DURATION> seconds. ",
-      "ja": "",
+      "ja": "ターシャが一番近い敵に瞬間的に加速して接近し、敵を斬ったあと、元の場所に戻る。加速する間は自身に一時的な無敵状態を付与し、敵に攻撃力の<208311.VALUE>のダメージを与え、敵を<208316.DURATION>秒間、気絶状態にする。 ",
       "zh_tw": "塔莎瞬間加速移動至最接近的敵人，砍擊敵人後回到原位。加速期間暫時賦予自身無敵狀態，造成攻擊力<208311.VALUE>的傷害，使其處於暈眩狀態<208316.DURATION>秒",
       "zh_cn": ""
     },
@@ -30532,7 +30868,7 @@
       "no": 352084,
       "kr": "타샤는 행동 후 대기 시간이 없이 다음 행동으로 이행하며 타샤의 모든 공격은 대상의 주변 3.5m 내 아군 수에 따라 피해량이 다음과 같이 증가한다.\r\n<COLOR=#FFFFFF>1인 - 15%, 2인 - 35%, 3인 - 70%, 4인 - 100%</COLOR>",
       "en": "Tasha performs actions without cooldowns in between. The damage of Tasha's attacks changes based on the number of allies within 3.5m of her target:\r\r\n<COLOR=#FFFFFF>1 ally - 15%, 2 allies - 35%, 3 allies - 70%, 4 allies - 100%</COLOR>",
-      "ja": "",
+      "ja": "ターシャは行動のあと、待機時間なく次の行動ができる。ターシャのすべての攻撃は、対象の周辺3.5m内の味方の数のよって、ダメージ量が以下のように増加する。\r\n<COLOR=#FFFFFF>1体 - 15%、2体 - 35%、3体 - 70%、4体 - 100%</COLOR>",
       "zh_tw": "塔莎行動後不休息，直接進行下一動作。塔莎的所有攻擊會根據目標周遭3.5m內的友軍數量，增加不同的傷害量如下。\r\r\n<COLOR=#FFFFFF>1人－15%、2人－35%、3人－70%、4人－100%</COLOR>",
       "zh_cn": ""
     },
@@ -30540,7 +30876,7 @@
       "no": 352085,
       "kr": "타샤가 가장 가까운 적을 대상으로 챠크람을 합친 뒤 강력한 일격을 펼쳐 공격력의 <208511.VALUE>의 피해를 입히고 <208516.DURATION>초 동안 기절 상태로 만든다.",
       "en": "Tasha combines her chakrams to unleash a powerful blow on the nearest enemy, dealing damage equal to <208511.VALUE> of ATK and stunning them for <208516.DURATION> seconds.",
-      "ja": "",
+      "ja": "ターシャが最も近い敵を対象にチャクラムを合わせたあと、強力な一撃で攻撃力の<208511.VALUE>のダメージを与え、対象を<208516.DURATION>秒間気絶状態にする。",
       "zh_tw": "塔莎將環刃合併，對最接近的敵人發動強烈一擊，造成攻擊力<208511.VALUE>的傷害，使其在<208516.DURATION>秒內陷入暈眩",
       "zh_cn": ""
     },
@@ -30548,7 +30884,7 @@
       "no": 352089,
       "kr": "전투 시작 후 리더 정령의 치명타 위력이 <208911.VALUE> 증가한다. 만약 리더 정령이 민첩 특성의 정령일 경우 <208912.VALUE> 증가로 변경된다.",
       "en": "Increases the lead Soul's Crit DMG by <208911.VALUE> when battle begins. The increase changes to <208912.VALUE> if the lead Soul is a DEX Soul.",
-      "ja": "",
+      "ja": "戦闘開始後にリーダー精霊のクリティカル威力が<208911.VALUE>増加する。もしリーダー精霊が敏捷特性の精霊の場合、<208912.VALUE>増加に変更される。",
       "zh_tw": "戰鬥開始後，隊長精靈暴擊威力增加<208911.VALUE>。若隊長精靈為敏捷特性時，變更為增加<208912.VALUE>",
       "zh_cn": ""
     },
@@ -31706,7 +32042,7 @@
     },
     {
       "no": 353181,
-      "kr": "라우라_액티브",
+      "kr": "가장 가까운 대상에게 강력한 일격을 가해 공격력 <318110.VALUE>의 피해를 입히고, 다음 스킬로 <COLOR=#FFFFFF><어퍼 블로우></COLOR>를 사용한다. ",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -31714,7 +32050,7 @@
     },
     {
       "no": 353182,
-      "kr": "라우라는 공격 후 대기 시간 없이 연속으로 스킬을 사용하며, 다음과 같은 순서로 스킬을 사용한다.\r\n<COLOR=#00B700><스킬 사용 순서></COLOR>\r\n권풍각 → 삼격권 → 분천격\r\n\r\n<COLOR=#E0942C><권풍각></COLOR>\r\n가장 가까운 적을 대상으로 공격력 200%의 피해를 입히고 6초 후 공격력 80%의 추가 피해를 입힌다.\r\n대상의 <추혼>이 3중첩 이상일 경우 즉시 추가 피해를 가한다.\r\n\r\n<COLOR=#E0942C><삼격권></COLOR>\r\n가장 가까운 적을 대상으로 공격력 180%의 피해를 입히고 대상을 넘어뜨리며, 이로운 효과를 2개 해제 시킨다.\r\n대상의 <추혼>이 2중첩 이상일 경우 공격력 60%의 추가 피해를 입히고 6초 동안 대상의 받는 최종 피해를 15% 증가 시킨다.\r\n\r\n<COLOR=#E0942C><분천격></COLOR>\r\n가장 가까운 적을 대상으로 공격력 210%의 피해를 입히고, 대상이 보유 중인 추혼 중첩 2중첩 당 피해량이 10%씩 증가한다.\r\n",
+      "kr": "라우라는 공격 후 대기 시간 없이 연속으로 스킬을 사용하며, 다음과 같은 순서로 스킬을 사용한다.\r\n<COLOR=#00B700><스킬 사용 순서></COLOR>\r\n스파이럴 킥 → 펜타 스트라이크 → 어퍼 블로우\r\n\r\n<COLOR=#E0942C><스파이럴 킥></COLOR>\r\n가장 가까운 적을 대상으로 공격력 <318010.VALUE>의 피해를 입힌다. 대상의 <COLOR=#FFFFFF><마킹></COLOR>이 <COLOR=#FFFFFF>3</COLOR>중첩 이상일 경우 공격력 <318013.VALUE>의 추가 피해를 입힌다.\r\n\r\n<COLOR=#E0942C><펜타 스트라이크></COLOR>\r\n가장 가까운 적을 대상으로 공격력 <318210.VALUE>의 피해를 입히고 이로운 효과를 2개 해제 시킨다. 대상의 <COLOR=#FFFFFF><마킹></COLOR>이 <COLOR=#FFFFFF>6</COLOR>중첩 이상일 경우 <318212.DURATION>초 동안 대상이 받는 최종 피해가 <318212.VALUE> 증가한다.\r\n\r\n<COLOR=#E0942C><어퍼 블로우></COLOR>\r\n가장 가까운 적을 대상으로 공격력 <318310.VALUE>의 피해를 입히고, 대상이 보유 중인 <COLOR=#FFFFFF><마킹></COLOR> 중첩 <COLOR=#FFFFFF>2</COLOR>중첩 당 피해량이 <318311.VALUE>씩 증가한다.\r\n",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -31722,7 +32058,7 @@
     },
     {
       "no": 353183,
-      "kr": "라우라_서브2",
+      "kr": "라우라의 체술을 극한까지 끌어 올리기 위해 대상의 <COLOR=#FFFFFF><마킹></COLOR>이 10중첩 일 때 <COLOR=#FFFFFF><어퍼 블로우></COLOR> 사용 후 해당 스킬을 사용한다. \r\n\r\n빛보다 빠른 속도로 움직여 가장 가까운 적을 대상을 연속으로 타격해 대상에게 공격력 <318710.VALUE>의 피해를 입히고 마지막 공격으로 자신 주변 2.5m 범위에 공격력 <318712.VALUE>의 추가 피해를 입힌다.\r\n",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -31730,7 +32066,7 @@
     },
     {
       "no": 353184,
-      "kr": "라우라_패시브",
+      "kr": "라우라의 기본 공격과 서브 스킬은 <318410.DURATION>초 동안 대상에게 <COLOR=#FFFFFF><마킹></COLOR> 효과를 부여한다. 대상의<COLOR=#FFFFFF><마킹></COLOR> <COLOR=#FFFFFF>1</COLOR>중첩 당 대상의 치명타 피격률이 <318410.VALUE> 증가한다. (최대 10중첩)",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -31738,7 +32074,15 @@
     },
     {
       "no": 353185,
-      "kr": "라우라_얼티밋",
+      "kr": "대상에게 공격력 <318510.VALUE>의 피해를 입히고, 직선 5m, 폭 3m 내 모든 적을 대상으로 공격력 <318511.VALUE>의 범위 피해를 입힌다. 추가로, 자신의 <COLOR=#FFFFFF><피니셔></COLOR> 중첩이 <COLOR=#FFFFFF>5</COLOR>중첩일 경우 대상에게 공격력 <318512.VALUE>의 추가 피해를 입힌다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 353189,
+      "kr": "리더 정령이 공격을 받을 때마다 리더 정령의 가하는 피해를 6초 동안 0.5% 증가 시킨다. (최대 10중첩)",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -33114,7 +33458,7 @@
     },
     {
       "no": 358011,
-      "kr": "실베스터 궁기 3세가 땅속으로 파고들어 숨은 뒤 가장 공격력이 높은 적 후방으로 나와 대상 및 주변 3m 범위에 공격력 <801110.VALUE>의 피해를 입힌다. 해당 피해를 받은 적이 보호막을 보유하고 있지 않은 경우, <color=#FFFFFF><피로></color> 효과를 <color=#FFFFFF>2</color>중첩 부여한다.",
+      "kr": "실베스터 조이 3세가 땅속으로 파고들어 숨은 뒤 가장 공격력이 높은 적 후방으로 나와 자신의 주변 3m에 위치한 모든 적에게 공격력 <801110.VALUE>의 피해를 입힌다. 해당 피해를 받은 적이 보호막을 보유하고 있지 않은 경우, <color=#FFFFFF><피로></color> 효과를 <color=#FFFFFF>2</color>중첩 부여한다.",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -33138,7 +33482,7 @@
     },
     {
       "no": 358014,
-      "kr": "실베스터와 놀아주기 힘들어!\r\n\r\n실베스터의 공격은 피격된 대상에게 <color=#FFFFFF><피로></color> 효과를 <color=#FFFFFF>1</color>중첩 부여하며, <color=#FFFFFF>10</color>중첩 될 때 해당 정령의 공격력이 <801413.VALUE>, 가속이 <801414.VALUE> 감소한다.\r\n\r\n추가로, 실베스터의 기본 공격은 적을 앞발로 내려찍어 대상 및 주변 3m 범위 적을 공격력의 <801010.VALUE>의 피해를 입히고 <color=#FFFFFF><피로></color> 효과를 <color=#FFFFFF>1</color>중첩 부여한다.",
+      "kr": "실베스터와 놀아주기 힘들어!\r\n\r\n실베스터의 공격은 피격 대상에게 <color=#FFFFFF><피로></color> 중첩을 부여하며, <color=#FFFFFF>10</color>중첩 될 때 해당 정령의 공격력이 <801413.VALUE>, 가속이 <801414.VALUE> 감소한다.\r\n\r\n추가로, 실베스터의 기본 공격은 적을 앞발로 내려찍어 대상 및 주변 3m 범위 적을 공격력의 <801010.VALUE>의 피해를 입히고 <color=#FFFFFF><피로></color> 효과를 <color=#FFFFFF>1</color>중첩 부여한다.",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -33147,6 +33491,46 @@
     {
       "no": 358015,
       "kr": "실베스터의 폭주를 막을 수 없다!\r\n\r\n<801510.DURATION>초 동안 <color=#FFFFFF>2</color>초마다 모든 적에게 공격력 <801511.VALUE> 피해를 입히고 <color=#FFFFFF><피로></color> 효과를 <color=#FFFFFF>1</color>중첩 부여하며, <color=#FFFFFF><말썽쟁이 실베스터></color> 상태가 되어 <801512.DURATION>초 동안 자신의 받는 최종 피해를 <801512.VALUE> 감소시킨다.(해제 가능)\r\n\r\n해당 스킬 사용 이후 실베스터는 <color=#FFFFFF><어지러워..></color> 상태가 되어 <color=#FFFFFF>4</color>초 동안 받는 최종 피해가 <801514.VALUE> 증가한다.\r\n만약, <color=#FFFFFF><말썽쟁이 실베스터></color> 효과를 해제 시켰을 경우, <color=#FFFFFF><어지러워..></color> 상태의 받는 최종 피해가 <801518.VALUE>로 변경된다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 358051,
+      "kr": "보유 중인 마나와 관계 없이 정해진 주기마다 한숨을 내쉬어 모든 적에게 공격력 <805110.VALUE>의 피해를 입히고, 낙원의 마녀가 보유한 마나량에 따라 추가 효과가 누적되어 발생한다.\r\n\r\n<COLOR=#00B700><보유 마나 33% 이상></COLOR>\r\n공격력 <805111.VALUE>의 추가 피해를 입힌다.\r\n\r\n<COLOR=#00B700><보유 마나 66% 이상></COLOR>\r\n공격력 <805112.VALUE>의 추가 피해를 입히고, 대상의 가하는 피해를 <805113.DURATION>초 동안 <805113.VALUE> 감소 시킨다.\r\n\r\n<COLOR=#00B700><보유 마나 100%></COLOR>\r\n공격력 <805114.VALUE>의 추가 피해를 입히고, 모든 대상에게 <805115.DURATION>초 동안 침묵 상태를 부여한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 358052,
+      "kr": "보유한 마나가 가장 많은 적을 대상으로 회오리를 일으켜 공격력 <805210.VALUE>의 피해를 입히고 넘어뜨린다.\r\n대상이 보유한 마나가 70% 이상일 경우 대상의 마나를 0으로 만들고 모든 적과 자신의 마나를 <805213.VALUE> 회복한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 358053,
+      "kr": "마력을 흡수하는 패밀리어를 소환하여 공격력 <805310.VALUE>의 피해를 입히고, 모든 적에게 <805311.DURATION>초 동안 유지되는 <COLOR=#FFFFFF><마력의 인장></COLOR> 효과를 부여한다.\r\n <COLOR=#FFFFFF><마력의 인장></COLOR> 효과를 해제하지 못할 경우 대상자의 마나를 0으로 만들고 낙원의 마녀의 마나를 <805313.VALUE> 회복시킨다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 358054,
+      "kr": "칼날 바람을 소환하여 모든 적에게 공격력 <805410.VALUE>의 피해를 입히고, 자신에게 해제될 때 까지 유지되는 <COLOR=#FFFFFF><정화의 바람></COLOR> 효과를 부여한다.\r\n <COLOR=#FFFFFF><정화의 바람></COLOR> 상태가 지속되는 동안 <COLOR=#FFFFFF>2</COLOR>초마다 자신에게 걸린 해제 가능한 모든 디버프를 해제한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 358055,
+      "kr": "낙원의 마녀는 공격을 통해 마나를 회복하지 않고 공격을 받을 때 마나를 회복함과 동시에 <COLOR=#FFFFFF><흔들리는 마나></COLOR> 중첩을 1 획득한다. <COLOR=#FFFFFF><흔들리는 마나></COLOR>가 <COLOR=#FFFFFF>60</COLOR> 중첩이 될 경우 자신의 모든 마나와 <COLOR=#FFFFFF><흔들리는 마나></COLOR> 중첩을 소모하고 <805714.DURATION>초 동안 낙원의 마녀가 받는 최종 피해가 <805714.VALUE> 증가한다\r\n\r\n추가로, 기본 공격이 공격력 <805010.VALUE>의 피해로 모든 대상을 공격하며, 자신이 보유 중인 마나가 100%일 경우 모든 적군의 가하는 피해를 <805511.VALUE>감소시킨다.",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -33436,7 +33820,7 @@
       "no": 359004,
       "kr": "야수형 정령 2명 이상 배치 시 모든 야수형 아군의 가하는 피해 50% 증가",
       "en": "All Beast allies' damage dealt +50% when 2 or more Beast Souls are deployed",
-      "ja": "",
+      "ja": "野獣型精霊を2体以上配置すると、野獣型味方全員の与えるダメージが50%増加",
       "zh_tw": "配置2名以上野獸型精靈時，所有野獸型友軍造成傷害增加50%",
       "zh_cn": ""
     },
@@ -35732,7 +36116,7 @@
       "no": 362081,
       "kr": "피해량이 <208121.VALUE>로 변경된다.",
       "en": "Damage changes to <208121.VALUE>.",
-      "ja": "",
+      "ja": "ダメージ量が<208121.VALUE>に変更される。",
       "zh_tw": "變更為造成<208121.VALUE>的傷害",
       "zh_cn": ""
     },
@@ -35740,7 +36124,7 @@
       "no": 362082,
       "kr": "피해량이 <208221.VALUE>로 변경된다.",
       "en": "Damage changes to <208221.VALUE>.",
-      "ja": "",
+      "ja": "ダメージ量が<208221.VALUE>に変更される。",
       "zh_tw": "變更為造成<208221.VALUE>的傷害",
       "zh_cn": ""
     },
@@ -35748,7 +36132,7 @@
       "no": 362083,
       "kr": "피해량이 <208321.VALUE>로 변경된다.",
       "en": "Damage changes to <208321.VALUE>.",
-      "ja": "",
+      "ja": "ダメージ量が<208321.VALUE>に変更される。",
       "zh_tw": "變更為造成<208321.VALUE>的傷害",
       "zh_cn": ""
     },
@@ -35756,7 +36140,7 @@
       "no": 362084,
       "kr": "일반 공격 시 대상 주변 3.5m 내 아군이 있을 경우 <208026.DURATION>초 동안 자신의 가속이 <208026.VALUE> 증가한다.",
       "en": "Normal attacks increase her Speed by <208026.VALUE> for <208026.DURATION> seconds if there are any allies within a 3.5m of the target.",
-      "ja": "",
+      "ja": "通常攻撃時に対象の周辺3.5m内に味方がいる場合、<208026.DURATION>秒間自分の加速が<208026.VALUE>増加する。",
       "zh_tw": "一般攻擊時，若目標周遭3.5m內有友軍，加速在<208026.DURATION>秒內增加<208026.VALUE>",
       "zh_cn": ""
     },
@@ -35764,7 +36148,7 @@
       "no": 362085,
       "kr": "피해량이 <208521.VALUE>로 변경된다.",
       "en": "Damage changes to <208521.VALUE>.",
-      "ja": "",
+      "ja": "ダメージ量が<208521.VALUE>に変更される。",
       "zh_tw": "變更為造成<208521.VALUE>的傷害",
       "zh_cn": ""
     },
@@ -35772,7 +36156,7 @@
       "no": 362089,
       "kr": "전투 시작 후 리더 정령의 치명타 위력이 <208921.VALUE> 증가한다. 만약 리더 정령이 민첩 특성의 정령일 경우 <208922.VALUE> 증가로 변경된다.",
       "en": "Increases the lead Soul's Crit DMG by <208921.VALUE> when battle begins. The increase changes to <208922.VALUE> if the lead Soul is a DEX Soul.",
-      "ja": "",
+      "ja": "戦闘開始後にリーダー精霊のクリティカル威力が<208921.VALUE>増加する。もしリーダー精霊が敏捷特性の精霊の場合、<208922.VALUE>増加に変更される。",
       "zh_tw": "戰鬥開始後，隊長精靈暴擊威力增加<208921.VALUE>。若隊長精靈為敏捷特性時，變更為增加<208922.VALUE>",
       "zh_cn": ""
     },
@@ -36890,7 +37274,7 @@
     },
     {
       "no": 363181,
-      "kr": "라우라_액티브",
+      "kr": "피해량이 <318120.VALUE>로 변경되고, 다음 <COLOR=#FFFFFF><어퍼 블로우></COLOR> 에 공격력 <318123.VALUE>의 추가 피해를 더한다.",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -36898,7 +37282,7 @@
     },
     {
       "no": 363182,
-      "kr": "<COLOR=#E0942C><권풍각></COLOR>\r\n피해량이 220%로, 추가 피해량이 100%로 변경된다.\r\n<COLOR=#E0942C><삼격권></COLOR>\r\n피해량이 200%로, 추가 피해가 80%로 변경된다.\r\n<COLOR=#E0942C><분천격></COLOR>\r\n피해량이 200%로, 추가 피해가 80%로 변경된다.\r\n",
+      "kr": "<COLOR=#E0942C><스파이럴 킥></COLOR>\r\n피해량이 <318020.VALUE>로, 추가 피해량이 <318023.VALUE>로 변경된다.\r\n<COLOR=#E0942C><펜타 스트라이크></COLOR>\r\n피해량이 <318220.VALUE>로, 받는 최종 피해 증가 효과가 <318222.VALUE>로 변경된다.\r\n<COLOR=#E0942C><어퍼 블로우></COLOR>\r\n피해량이 <318320.VALUE>로, 중첩 당 증가하는 피해량이 <318321.VALUE>로 변경된다.\r\n",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -36906,7 +37290,7 @@
     },
     {
       "no": 363183,
-      "kr": "라우라_서브2",
+      "kr": "대상 피해량이 <318720.VALUE>로, 범위 피해량이 <318722.VALUE>로 변경된다.",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -36914,7 +37298,7 @@
     },
     {
       "no": 363184,
-      "kr": "라우라_패시브",
+      "kr": "<COLOR=#FFFFFF><마킹></COLOR> 1중첩 당 증가하는 수치가 <318420.VALUE>로 변경된다.",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -36922,7 +37306,15 @@
     },
     {
       "no": 363185,
-      "kr": "라우라_얼티밋",
+      "kr": "피해량이 <318520.VALUE>로, 범위 피해량이 <318521.VALUE>로 변경된다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 363189,
+      "kr": "리더 정령이 공격을 받을 때마다 리더 정령의 가하는 피해를 6초 동안 1% 증가 시킨다. (최대 10중첩)",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -39636,7 +40028,7 @@
       "no": 372081,
       "kr": "피해량이 <208131.VALUE>로 변경되고, 버프 제거 수가 <COLOR=#FFFFFF>3</COLOR>개로 변경되며 버프 제거 효과가 <COLOR=#FFFFFF><춤추는 것처럼!></COLOR> 효과에 영향을 받는 것으로 변경된다.",
       "en": "Damage changes to <208131.VALUE>. Buff removal increases to <COLOR=#FFFFFF>3</COLOR> and is influenced by the <COLOR=#FFFFFF>\"Like Dancing!\"</COLOR> effect.",
-      "ja": "",
+      "ja": "ダメージ量が<208131.VALUE>に変更される。バフ削除数が<COLOR=#FFFFFF>3</COLOR>個に変更され、バフ削除効果が<COLOR=#FFFFFF><舞い踊るように！></COLOR>の効果に影響を受けるように変更される。",
       "zh_tw": "變更為造成<208131.VALUE>的傷害，解除<COLOR=#FFFFFF>3</COLOR>個增益效果，且解除增益效果會受到<COLOR=#FFFFFF>＜像在跳舞一樣！＞</COLOR>效果的影響",
       "zh_cn": ""
     },
@@ -39644,7 +40036,7 @@
       "no": 372082,
       "kr": "피해량이 <208231.VALUE>로 변경되고, 만약 <COLOR=#FFFFFF><춤추는 것처럼!></COLOR> 효과로 3명 이상일 경우의 피해를 입혔다면 <208218.DURATION>초 동안 대상의 물리 저항력이 <208218.VALUE> 감소한다.",
       "en": "Damage changes to <208231.VALUE>. If 3 or more affected thanks to the <COLOR=#FFFFFF>\"Like Dancing!\"</COLOR> effect, decreases the targets' Physical Resistance by <208218.VALUE> for <208218.DURATION> seconds.",
-      "ja": "",
+      "ja": "ダメージ量が<208231.VALUE>に変更される。もし<COLOR=#FFFFFF><舞い踊るように！></COLOR>の効果で3体以上の敵にダメージを与えた場合、<208218.DURATION>秒間、対象の物理抵抗が<208218.VALUE>減少する。",
       "zh_tw": "變更為造成<208231.VALUE>的傷害，若效果<COLOR=#FFFFFF>＜像在跳舞一樣！＞</COLOR>使3人以上受擊，則在<208218.DURATION>秒內使對方物理抵抗力減少<208218.VALUE>",
       "zh_cn": ""
     },
@@ -39652,7 +40044,7 @@
       "no": 372083,
       "kr": "피해량이 <208331.VALUE>, 기절 상태의 지속 시간이 <208336.DURATION>초로 변경되고, 처음 사용하는 해당 스킬의 대상이 공격력이 가장 높은 적으로 변경된다.   ",
       "en": "Damage changes to <208331.VALUE>, stun duration changes to <208336.DURATION> seconds, and the target of the skill for the first use changes to the enemy with the highest ATK.   ",
-      "ja": "",
+      "ja": "ダメージ量が<208331.VALUE>、気絶状態の持続時間が<208336.DURATION>秒に変更され、最初に使用するこのスキルの対象が攻撃力が一番高い敵に変更される。   ",
       "zh_tw": "變更為造成<208331.VALUE>的傷害，暈眩狀態持續時間<208336.DURATION>秒，初次使用該技能的目標變更為攻擊力最高的敵人",
       "zh_cn": ""
     },
@@ -39660,7 +40052,7 @@
       "no": 372084,
       "kr": "증가하는 가속이 <208036.VALUE>로 변경된다.",
       "en": "Speed increase changes to <208036.VALUE>.",
-      "ja": "",
+      "ja": "増加する加速が<208036.VALUE>に変更される。",
       "zh_tw": "變更為加速增加<208036.VALUE>",
       "zh_cn": ""
     },
@@ -39668,7 +40060,7 @@
       "no": 372085,
       "kr": "피해량이 <208531.VALUE>로 변경되고, <COLOR=#FFFFFF><춤추는 것처럼!></COLOR>으로 인한 피해량 증가 효과가 2배로 적용된다.",
       "en": "Damage changes to <208531.VALUE>. The damage increase from <COLOR=#FFFFFF>\"Like Dancing!</COLOR> is multiplied by 2.",
-      "ja": "",
+      "ja": "ダメージ量が<208531.VALUE>に変更され、<COLOR=#FFFFFF><舞い踊るように！></COLOR>によるダメージ量増加効果が2倍になる。",
       "zh_tw": "變更為造成<208531.VALUE>的傷害，因<COLOR=#FFFFFF>＜像在跳舞一樣！＞</COLOR>產生的傷害量增加效果套用為2倍",
       "zh_cn": ""
     },
@@ -39676,7 +40068,7 @@
       "no": 372089,
       "kr": "전투 시작 후 리더 정령의 치명타 위력이 <208931.VALUE> 증가한다. 만약 리더 정령이 민첩 특성의 정령일 경우 <208932.VALUE> 증가로 변경된다.",
       "en": "Increases the lead Soul's Crit DMG by <208931.VALUE> when battle begins. The increase changes to <208932.VALUE> if the lead Soul is a DEX Soul.",
-      "ja": "",
+      "ja": "戦闘開始後にリーダー精霊のクリティカル威力が<208931.VALUE>増加する。もしリーダー精霊が敏捷特性の精霊の場合、<208932.VALUE>増加に変更される。",
       "zh_tw": "戰鬥開始後，隊長精靈暴擊威力增加<208931.VALUE>。若隊長精靈為敏捷特性時，變更為增加<208932.VALUE>",
       "zh_cn": ""
     },
@@ -40794,7 +41186,7 @@
     },
     {
       "no": 373181,
-      "kr": "라우라_액티브",
+      "kr": "피해량이 <318130.VALUE>로 변경되고, <COLOR=#FFFFFF><어퍼 블로우></COLOR> 의 추가 피해가 <318133.VALUE>로 변경된다.",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -40802,7 +41194,7 @@
     },
     {
       "no": 373182,
-      "kr": "<COLOR=#E0942C><권풍각></COLOR>\r\n피해량이 240%로, 추가 피해량이 120%로 변경된다.\r\n<COLOR=#E0942C><삼격권></COLOR>\r\n피해량이 220%로, 추가 피해가 100%로 변경되고, 받는 최종 피해 증가치가 20%로 변경된다.\r\n<COLOR=#E0942C><분천격></COLOR>\r\n의 피해량이 200%로, 추가 피해가 80%로 변경된다.",
+      "kr": "<COLOR=#E0942C><스파이럴 킥></COLOR>\r\n피해량이 <318030.VALUE>로, 추가 피해량이 <318033.VALUE>로 변경된다.\r\n<COLOR=#E0942C><펜타 스트라이크></COLOR>\r\n피해량이 <318230.VALUE>로, 받는 최종 피해 증가 효과가 <318232.VALUE>로 변경된다.\r\n<COLOR=#E0942C><어퍼 블로우></COLOR>\r\n피해량이 <318330.VALUE>로, 중첩 당 증가하는 피해량이 <318331.VALUE>로 변경된다.",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -40810,7 +41202,7 @@
     },
     {
       "no": 373183,
-      "kr": "라우라_서브2",
+      "kr": "대상 피해량이 <318730.VALUE>로, 범위 피해량이 <318732.VALUE>로 변경되고, 자신의 가하는 피해와 치명타 위력이 영구적으로 <318734.VALUE> 증가하는 <COLOR=#FFFFFF><피니셔></COLOR> 효과가 추가된다. (최대 5중첩)",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -40818,7 +41210,7 @@
     },
     {
       "no": 373184,
-      "kr": "라우라_패시브",
+      "kr": "<COLOR=#FFFFFF><마킹></COLOR> 1중첩 당 증가하는 수치가 <318430.VALUE>로 변경되고, 대상의 방어력이 <318431.VALUE> 감소하는 효과가 추가된다.",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -40826,7 +41218,15 @@
     },
     {
       "no": 373185,
-      "kr": "라우라_얼티밋",
+      "kr": "피해량이 <318530.VALUE>로, 범위 피해량이 <318531.VALUE>로 변경된다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 373189,
+      "kr": "리더 정령이 공격을 받을 때마다 리더 정령의 가하는 피해를 6초 동안 1.5% 증가 시킨다. (최대 10중첩)",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -43428,7 +43828,7 @@
       "no": 382081,
       "kr": "같이 춤출까?",
       "en": "Shall We Dance?",
-      "ja": "",
+      "ja": "一緒に踊ってくれる？",
       "zh_tw": "要一起跳舞嗎？",
       "zh_cn": ""
     },
@@ -43436,7 +43836,7 @@
       "no": 382082,
       "kr": "우아함이 중요해!",
       "en": "Elegance is key!",
-      "ja": "",
+      "ja": "優雅な姿が一番よ！",
       "zh_tw": "優雅很重要！",
       "zh_cn": ""
     },
@@ -43444,7 +43844,7 @@
       "no": 382083,
       "kr": "날렵하게!",
       "en": "Swiftly!",
-      "ja": "",
+      "ja": "軽やかに！",
       "zh_tw": "敏捷一點！",
       "zh_cn": ""
     },
@@ -43452,7 +43852,7 @@
       "no": 382085,
       "kr": "후훗, 눈을 못 떼겠지?",
       "en": "Can't take your eyes off me, huh?",
-      "ja": "",
+      "ja": "ふふっ、目が離せないのかしら？",
       "zh_tw": "呵呵，你移不開視線吧？",
       "zh_cn": ""
     },
@@ -43460,7 +43860,7 @@
       "no": 382089,
       "kr": "전투 시작 후 리더 정령의 치명타 위력이 <208941.VALUE> 증가한다. 만약 리더 정령이 민첩 특성의 정령일 경우 <208942.VALUE> 증가로 변경된다.",
       "en": "Increases the lead Soul's Crit DMG by <208941.VALUE> when battle begins. The increase changes to <208942.VALUE> if the lead Soul is a DEX Soul.",
-      "ja": "",
+      "ja": "戦闘開始後にリーダー精霊のクリティカル威力が<208941.VALUE>増加する。もしリーダー精霊が敏捷特性の精霊の場合、<208942.VALUE>増加に変更される。",
       "zh_tw": "戰鬥開始後，隊長精靈暴擊威力增加<208941.VALUE>。若隊長精靈為敏捷特性時，變更為增加<208942.VALUE>",
       "zh_cn": ""
     },
@@ -44483,6 +44883,46 @@
     {
       "no": 383175,
       "kr": "이미 늦었어.\r\n이대로 환영 속에서 잠들어.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 383181,
+      "kr": "느려…!!!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 383182,
+      "kr": "이 꽉 깨물어라?",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 383183,
+      "kr": "그림자보다 빠르게!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 383184,
+      "kr": "내 진심을… 보여주지!!",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
+      "zh_cn": ""
+    },
+    {
+      "no": 383189,
+      "kr": "리더 정령이 공격을 받을 때마다 리더 정령의 가하는 피해를 6초 동안 2% 증가 시킨다. (최대 10중첩)",
       "en": "",
       "ja": "",
       "zh_tw": "",
@@ -45964,7 +46404,7 @@
       "no": 392089,
       "kr": "전투 시작 후 리더 정령의 치명타 위력이 <208951.VALUE> 증가한다. 만약 리더 정령이 민첩 특성의 정령일 경우 <208952.VALUE> 증가로 변경된다.",
       "en": "Increases the lead Soul's Crit DMG by <208951.VALUE> when battle begins. The increase changes to <208952.VALUE> if the lead Soul is a DEX Soul.",
-      "ja": "",
+      "ja": "戦闘開始後にリーダー精霊のクリティカル威力が<208951.VALUE>増加する。もしリーダー精霊が敏捷特性の精霊の場合、<208952.VALUE>増加に変更される。",
       "zh_tw": "戰鬥開始後，隊長精靈暴擊威力增加<208951.VALUE>。若隊長精靈為敏捷特性時，變更為增加<208952.VALUE>",
       "zh_cn": ""
     },
@@ -46158,6 +46598,14 @@
       "en": "When the lead Soul uses her main skill, she recovers 1,250 Mana every 2 sec for 6 sec (triggers up to 2 times).",
       "ja": "",
       "zh_tw": "主要精靈使用主要技能時，6秒內每2秒恢復魔力1250（最多發動2次）",
+      "zh_cn": ""
+    },
+    {
+      "no": 393189,
+      "kr": "리더 정령이 공격을 받을 때마다 리더 정령의 가하는 피해를 6초 동안 2.5% 증가 시킨다. (최대 10중첩)",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -46556,7 +47004,7 @@
       "no": 402089,
       "kr": "전투 시작 후 리더 정령의 치명타 위력이 <208961.VALUE> 증가한다. 만약 리더 정령이 민첩 특성의 정령일 경우 <208962.VALUE> 증가로 변경된다.",
       "en": "Increases the lead Soul's Crit DMG by <208961.VALUE> when battle begins. The increase changes to <208962.VALUE> if the lead Soul is a DEX Soul.",
-      "ja": "",
+      "ja": "戦闘開始後にリーダー精霊のクリティカル威力が<208961.VALUE>増加する。もしリーダー精霊が敏捷特性の精霊の場合、<208962.VALUE>増加に変更される。",
       "zh_tw": "戰鬥開始後，隊長精靈暴擊威力增加<208961.VALUE>。若隊長精靈為敏捷特性時，變更為增加<208962.VALUE>",
       "zh_cn": ""
     },
@@ -46750,6 +47198,14 @@
       "en": "When the lead Soul uses her main skill, she recovers 1,500 Mana every 2 sec for 6 sec (triggers up to 2 times).",
       "ja": "",
       "zh_tw": "主要精靈使用主要技能時，6秒內每2秒恢復魔力1500（最多發動2次）",
+      "zh_cn": ""
+    },
+    {
+      "no": 403189,
+      "kr": "리더 정령이 공격을 받을 때마다 리더 정령의 가하는 피해를 6초 동안 3% 증가 시킨다. (최대 10중첩)",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -47148,7 +47604,7 @@
       "no": 412089,
       "kr": "전투 시작 후 리더 정령의 치명타 위력이 <208971.VALUE> 증가한다. 만약 리더 정령이 민첩 특성의 정령일 경우 <208972.VALUE> 증가로 변경된다.",
       "en": "Increases the lead Soul's Crit DMG by <208971.VALUE> when battle begins. The increase changes to <208972.VALUE> if the lead Soul is a DEX Soul.",
-      "ja": "",
+      "ja": "戦闘開始後にリーダー精霊のクリティカル威力が<208971.VALUE>増加する。もしリーダー精霊が敏捷特性の精霊の場合、<208972.VALUE>増加に変更される。",
       "zh_tw": "戰鬥開始後，隊長精靈暴擊威力增加<208971.VALUE>。若隊長精靈為敏捷特性時，變更為增加<208972.VALUE>",
       "zh_cn": ""
     },
@@ -47342,6 +47798,14 @@
       "en": "When the lead Soul uses her main skill, she recovers 2,000 Mana every 2 sec for 6 sec (triggers up to 2 times).",
       "ja": "",
       "zh_tw": "主要精靈使用主要技能時，6秒內每2秒恢復魔力2000（最多發動2次）",
+      "zh_cn": ""
+    },
+    {
+      "no": 413189,
+      "kr": "리더 정령이 공격을 받을 때마다 리더 정령의 가하는 피해를 6초 동안 3.5% 증가 시킨다. (최대 10중첩)",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -49020,7 +49484,7 @@
       "no": 702111,
       "kr": "<COLOR=#E0942C>혈투</COLOR>",
       "en": "<COLOR=#E0942C>Bloodfest</COLOR>",
-      "ja": "",
+      "ja": "<COLOR=#E0942C>血闘</COLOR>",
       "zh_tw": "<COLOR=#E0942C>血戰</COLOR>",
       "zh_cn": ""
     },
@@ -49028,7 +49492,7 @@
       "no": 702112,
       "kr": "아군이 출혈 2중첩을 보유하고 있을 경우 2초마다 얼티밋 게이지 3% 회복, 과다 출혈 보유 시 2초마다 얼티밋 게이지 100% 감소",
       "en": "If any ally has 2 stacks of Bleeding, the Ultimate Gauge is restored by 3% every 2 sec. If any ally has Overbleeding, the Ultimate Gauge is decreased by 100% every 2 sec.",
-      "ja": "",
+      "ja": "味方が出血2スタックを獲得している場合、2秒ごとにアルティメットゲージが3%回復、過剰出血を獲得していると、2秒ごとにアルティメットゲージが100%減少",
       "zh_tw": "友軍持有出血2疊加時，每2秒恢復終極計量條3%；持有出血過多時，每2秒終極計量條減少100%",
       "zh_cn": ""
     },
@@ -49036,7 +49500,7 @@
       "no": 702121,
       "kr": "<COLOR=#E0942C>오버 리미트</COLOR>",
       "en": "<COLOR=#E0942C>Over Limit</COLOR>",
-      "ja": "",
+      "ja": "<COLOR=#E0942C>オーバーリミット</COLOR>",
       "zh_tw": "<COLOR=#E0942C>超越極限</COLOR>",
       "zh_cn": ""
     },
@@ -49044,7 +49508,7 @@
       "no": 702122,
       "kr": "아군이 얼티밋 스킬을 사용할 때 마다 아군 전체 공격력 및 가속 10% 증가 및 종말을 부르는 인형의 <리미터 해제> 버프 3중첩 증가",
       "en": "Every time an ally uses her ultimate skill, the ATK and Speed of all allies are increased by 10% and the Doomsday Doll's \"Unlock Limiter\" buff is increased by 3 stacks.",
-      "ja": "",
+      "ja": "味方がアルティメットスキルを使用するたびに味方全員の攻撃力および加速が10%増加, 終末を呼ぶ人形の<リミッター解除>バフが3スタック増加",
       "zh_tw": "每當友軍使用終極技能時，使所有友軍攻擊力和加速增加10% ，並使末日傀儡的＜解除限制＞增益效果增加3疊加",
       "zh_cn": ""
     },
@@ -49542,6 +50006,22 @@
       "en": "The Ringleader and the Minions' types are reversed, making them weak to what they were once strong against. Type Match damage received is increased by 25%, and Type Countermatch damage dealt is decreased by 25%.",
       "ja": "",
       "zh_tw": "原先對首領與劊子手有利的屬性，將逆轉成不利的屬性。所受契合度傷害量增加25%，反剋度傷害量減少25%",
+      "zh_cn": ""
+    },
+    {
+      "no": 710005,
+      "kr": "낙원의 가호",
+      "en": "Protection of the Paradise",
+      "ja": "",
+      "zh_tw": "樂園的庇佑",
+      "zh_cn": ""
+    },
+    {
+      "no": 710006,
+      "kr": "아군 정령이 얼티밋 스킬 사용 시 모든 아군의 가하는 피해가 12초 동안 100% 증가한다.",
+      "en": "",
+      "ja": "",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -56563,9 +57043,9 @@
     {
       "no": 8000100,
       "kr": "스타팅 시뮬레이터",
-      "en": "",
+      "en": "Starting Simulation",
       "ja": "",
-      "zh_tw": "",
+      "zh_tw": "初始模擬裝置",
       "zh_cn": ""
     },
     {
@@ -56971,9 +57451,9 @@
     {
       "no": 8000200,
       "kr": "적의 가속이 증가하는 대신 공격 능력과 생존 능력이 크게 감소한다.",
-      "en": "",
+      "en": "Increases enemy's Speed, but greatly decreases their offensive and survival abilities.",
       "ja": "",
-      "zh_tw": "",
+      "zh_tw": "敵人加速增加，但攻擊能力和生存能力大幅降低。",
       "zh_cn": ""
     },
     {
@@ -59788,7 +60268,7 @@
       "no": 34900401,
       "kr": "야수 결속",
       "en": "Beast Solidarity",
-      "ja": "",
+      "ja": "野獣の結束",
       "zh_tw": "聯合野獸",
       "zh_cn": ""
     },
@@ -62402,10 +62882,10 @@
     },
     {
       "no": 35600021,
-      "kr": "베히모스가 봉인에서 벗어나기 위해 거슬리는 모든 것들을 멸하는 기운을 방출하여 모든 적에게 공격력의 총 <6000211.VALUE>의 피해를 입힌 뒤 종막에는 전멸시킨다. 해당 스킬이 시전 될 때 베히모스에게 <COLOR=#FFFFFF><뇌전갑각></COLOR> 20중첩이 부여되며 본체 타격 1회당 <COLOR=#FFFFFF><뇌전갑각></COLOR>의 중첩이 1중첩 감소한다. <COLOR=#FFFFFF><뇌전갑각></COLOR> 중첩이 모두 사라진 후 기절을 부여할 수 있으며 기절시킬 시 진행 중인 스킬의 시전이 저지되고 <6000274.DURATION>초 동안 최종 피해 감소 효과가 사라진다.",
-      "en": "Behemoth unleashes a destructive force to remove all obstacles and break free from its seal, dealing Damage equal to <6000211.VALUE> of ATK to all enemies and obliterating them all in the end. When this skill is cast, Behemoth gains 20 stacks of <COLOR=#FFFFFF>\"Lightning Carapace,\"</COLOR> with each received attack hit on its main body removing 1 stack. Once all stacks of <COLOR=#FFFFFF>\"Lightning Carapace\"</COLOR> are gone, Behemoth can be stunned, which will interrupt the progression of this skill and cancel out its total damage received reduction effect for <6000274.DURATION> sec.",
+      "kr": "베히모스는 봉인을 풀기 위해 거슬리는 모든 것을 말살하는 기운을 방출하여, 모든 적에게 총 <6000211.VALUE>의 피해를 입힌다. 이와 함께 자신에게 <COLOR=#FFFFFF><멸살></COLOR> 효과와 <COLOR=#FFFFFF><뇌전갑각></COLOR> 20중첩을 부여한다.\r\n\r\n이후 본체를 1회 타격할 때마다 <COLOR=#FFFFFF><뇌전갑각></COLOR>이 1중첩씩 감소하며, 중첩이 모두 사라지면 베히모스를 기절시킬 수 있다. 기절에 성공하면 <COLOR=#FFFFFF><멸살></COLOR> 효과가 즉시 해제되고, <6000272.DURATION>초 동안 베히모스의 최종 피해 감소 효과가 사라진다. 이 기절 시간 동안 베히모스가 받는 최종 피해는 <6000274.VALUE> 증가한다.\r\n\r\n기절에 실패할 경우, 남아 있는 <COLOR=#FFFFFF><뇌전갑각></COLOR> 5중첩마다 아군 전체의 가하는 피해가 영구적으로 <6000316.VALUE> 감소한다.",
+      "en": "",
       "ja": "",
-      "zh_tw": "貝希摩斯為擺脫封印，釋放氣息消滅礙眼的一切，對所有敵人造成攻擊力共<6000211.VALUE>的傷害後，在最後將其殲滅。發動該技能時，賦予貝希摩斯<COLOR=#FFFFFF>＜雷電盔甲＞</COLOR>20疊加，每1次打擊本體減少<COLOR=#FFFFFF>＜雷電盔甲＞</COLOR>1疊加。<COLOR=#FFFFFF>＜雷電盔甲＞</COLOR>疊加全數消失後，即可賦予暈眩，使其暈眩時將阻止發動中的技能，並在<6000274.DURATION>秒內使最終傷害減少效果消失",
+      "zh_tw": "",
       "zh_cn": ""
     },
     {
@@ -63827,17 +64307,17 @@
     {
       "no": 80341140,
       "kr": "정령의 기원 - 아키",
-      "en": "",
+      "en": "Soul Origin - Aki",
       "ja": "",
-      "zh_tw": "",
+      "zh_tw": "精靈起源－秋",
       "zh_cn": ""
     },
     {
       "no": 80351140,
       "kr": "아군 아키의 능력치가 대폭 증가하고 마나를 2500 만큼 보유한 상태로 전투를 시작한다.",
-      "en": "",
+      "en": "Greatly increases stats with the power of origin and starts battle with 2,500 Mana.",
       "ja": "",
-      "zh_tw": "",
+      "zh_tw": "起源的力量使能力值大幅增加，將以持有2500魔力的狀態開始戰鬥。",
       "zh_cn": ""
     },
     {

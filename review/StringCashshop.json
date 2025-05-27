@@ -1881,6 +1881,14 @@
       "zh_cn": ""
     },
     {
+      "no": 910397,
+      "kr": "라우라 승급 패스",
+      "en": "Laura Ascension Pass",
+      "ja": "",
+      "zh_tw": "蘿拉升階通行證",
+      "zh_cn": ""
+    },
+    {
       "no": 910401,
       "kr": "복귀 유저 패키지",
       "en": "Returner's Pack",
@@ -2006,6 +2014,22 @@
       "en": "Memoir: Beyond the Extreme Light",
       "ja": "",
       "zh_tw": "回憶錄：極光彼端",
+      "zh_cn": ""
+    },
+    {
+      "no": 910421,
+      "kr": "라우라 픽업",
+      "en": "Laura Pick-Up",
+      "ja": "",
+      "zh_tw": "蘿拉Pick Up",
+      "zh_cn": ""
+    },
+    {
+      "no": 910422,
+      "kr": "메이드 인 마이 홈",
+      "en": "Maid in My home",
+      "ja": "",
+      "zh_tw": "家中的女僕",
       "zh_cn": ""
     },
     {
@@ -4529,6 +4553,62 @@
       "zh_cn": ""
     },
     {
+      "no": 911235,
+      "kr": "일일 메이드 인 마이 홈 이벤트 초특가 패키지",
+      "en": "Daily maid in My Home Event Super Special Package",
+      "ja": "",
+      "zh_tw": "家政每日特別套餐活動",
+      "zh_cn": ""
+    },
+    {
+      "no": 911236,
+      "kr": "일일 메이드 인 마이 홈 이벤트 정령 소환 패키지",
+      "en": "Daily maid in My Home Event Spirits Summon Package",
+      "ja": "",
+      "zh_tw": "家政每日女僕活動靈體召喚套餐",
+      "zh_cn": ""
+    },
+    {
+      "no": 911237,
+      "kr": "일일 메이드 인 마이 홈 이벤트 성장 패키지",
+      "en": "Daily maid in My Home Event Growth Package",
+      "ja": "",
+      "zh_tw": "我的家活動成長套餐中的每日家政服務",
+      "zh_cn": ""
+    },
+    {
+      "no": 911238,
+      "kr": "일일 메이드 인 마이 홈 이벤트 크리스탈 패키지",
+      "en": "Daily maid in My Home Event Crystal Package",
+      "ja": "",
+      "zh_tw": "家政日常活動水晶套餐",
+      "zh_cn": ""
+    },
+    {
+      "no": 911239,
+      "kr": "메이드 인 마이 홈 이벤트 패키지 1",
+      "en": "maid in My Home Event Package 1",
+      "ja": "",
+      "zh_tw": "家政服務活動套餐1",
+      "zh_cn": ""
+    },
+    {
+      "no": 911240,
+      "kr": "메이드 인 마이 홈 이벤트 패키지 2",
+      "en": "maid in My Home Event Package 2",
+      "ja": "",
+      "zh_tw": "家政服務套餐2",
+      "zh_cn": ""
+    },
+    {
+      "no": 911241,
+      "kr": "메이드 인 마이 홈 이벤트 패키지 3",
+      "en": "maid in My Home Event Package 3",
+      "ja": "",
+      "zh_tw": "家政服務套餐3",
+      "zh_cn": ""
+    },
+    {
       "no": 912000,
       "kr": "스텝업 패키지 (1단계)",
       "en": "Step-Up Pack (Level 1)",
@@ -5534,6 +5614,46 @@
       "en": "May Surprise Pack 3",
       "ja": "5月サプライズパック3",
       "zh_tw": "5月驚喜禮包3",
+      "zh_cn": ""
+    },
+    {
+      "no": 914201,
+      "kr": "특별 패키지 1",
+      "en": "Special Pack 1",
+      "ja": "特別パック1",
+      "zh_tw": "特別禮包1",
+      "zh_cn": ""
+    },
+    {
+      "no": 914202,
+      "kr": "특별 패키지 2",
+      "en": "Special Pack 2",
+      "ja": "特別パック2",
+      "zh_tw": "特別禮包2",
+      "zh_cn": ""
+    },
+    {
+      "no": 914203,
+      "kr": "특별 패키지 3",
+      "en": "Special Pack 3",
+      "ja": "特別パック3",
+      "zh_tw": "特別禮包3",
+      "zh_cn": ""
+    },
+    {
+      "no": 914204,
+      "kr": "특별 패키지 4",
+      "en": "Special Pack 4",
+      "ja": "特別パック4",
+      "zh_tw": "特別禮包4",
+      "zh_cn": ""
+    },
+    {
+      "no": 914205,
+      "kr": "특별 패키지 5",
+      "en": "Special Pack 5",
+      "ja": "特別パック5",
+      "zh_tw": "特別禮包5",
       "zh_cn": ""
     },
     {
@@ -7222,6 +7342,22 @@
       "en": "Renee (Argent) Pick-Up Pack 2",
       "ja": "ルネ(白銀) Pick-Up記念パック2",
       "zh_tw": "勒內（白銀）Pick Up紀念禮包2",
+      "zh_cn": ""
+    },
+    {
+      "no": 917581,
+      "kr": "라우라 픽업 기념 패키지 1",
+      "en": "Laura Pick-Up Pack 1",
+      "ja": "",
+      "zh_tw": "蘿拉Pick Up紀念禮包1",
+      "zh_cn": ""
+    },
+    {
+      "no": 917582,
+      "kr": "라우라 픽업 기념 패키지 2",
+      "en": "Laura Pick-Up Pack 2",
+      "ja": "",
+      "zh_tw": "蘿拉Pick Up紀念禮包1",
       "zh_cn": ""
     },
     {
@@ -9830,6 +9966,70 @@
       "en": "Renee (Argent) Origin+5 Achievement Pack",
       "ja": "",
       "zh_tw": "達成勒內（白銀）不朽+5禮包",
+      "zh_cn": ""
+    },
+    {
+      "no": 919381,
+      "kr": "라우라 에픽 달성 패키지",
+      "en": "Laura Epic Achievement Pack",
+      "ja": "",
+      "zh_tw": "達成蘿拉史詩禮包",
+      "zh_cn": ""
+    },
+    {
+      "no": 919382,
+      "kr": "라우라 에픽+ 달성 패키지",
+      "en": "Laura Epic+ Achievement Pack",
+      "ja": "",
+      "zh_tw": "達成蘿拉史詩＋禮包",
+      "zh_cn": ""
+    },
+    {
+      "no": 919383,
+      "kr": "라우라 레전더리+ 달성 패키지",
+      "en": "Laura Legendary+ Achievement Pack",
+      "ja": "",
+      "zh_tw": "達成蘿拉傳說＋禮包",
+      "zh_cn": ""
+    },
+    {
+      "no": 919384,
+      "kr": "라우라 이터널+ 달성 패키지",
+      "en": "Laura Eternal+ Achievement Pack",
+      "ja": "",
+      "zh_tw": "達成蘿拉永恆＋禮包",
+      "zh_cn": ""
+    },
+    {
+      "no": 919385,
+      "kr": "라우라 오리진 달성 패키지",
+      "en": "Laura Origin Achievement Pack",
+      "ja": "",
+      "zh_tw": "達成蘿拉不朽禮包",
+      "zh_cn": ""
+    },
+    {
+      "no": 919386,
+      "kr": "라우라 오리진+1 달성 패키지",
+      "en": "Laura Origin+1 Achievement Pack",
+      "ja": "",
+      "zh_tw": "達成蘿拉不朽+1禮包",
+      "zh_cn": ""
+    },
+    {
+      "no": 919387,
+      "kr": "라우라 오리진+3 달성 패키지",
+      "en": "Laura Origin+3 Achievement Pack",
+      "ja": "",
+      "zh_tw": "達成蘿拉不朽+3禮包",
+      "zh_cn": ""
+    },
+    {
+      "no": 919388,
+      "kr": "라우라 오리진+5 달성 패키지",
+      "en": "Laura Origin+5 Achievement Pack",
+      "ja": "",
+      "zh_tw": "達成蘿拉不朽+5禮包",
       "zh_cn": ""
     },
     {
